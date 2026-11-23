@@ -49,27 +49,7 @@ Au premier lancement, le menu installe les dépendances Julia, ce qui prend quel
 5. régénérer les tableaux et figures du rapport ;
 6. ouvrir le rapport.
 
-## Sans le menu
-
-```sh
-julia --project=. -e 'using Pkg; Pkg.instantiate()'   # dépendances
-julia --project=. scripts/solve.jl p2.3.h all 60      # une instance : all, algo1, algo2 ou milp
-julia --project=. test/runtests.jl                    # tests
-julia --project=. scripts/benchmark.jl chao           # heuristiques, 353 instances
-julia --project=. scripts/benchmark.jl milp p2        # PLNE (puis p1 et p3), 60 s par instance
-julia --project=. scripts/analyze.jl                  # tableaux et figures
-```
-
-Nos résultats sont déjà dans `results/`. Avant de relancer la PLNE à la main, renommez `results/raw/milp_runs.csv` pour ne pas mélanger les deux campagnes. Les écarts des heuristiques sont reproductibles, car les seeds sont fixées. Les temps et les résultats de la PLNE, coupée à 60 s, dépendent de la machine. Nos mesures ont été faites sur un cœur d'un AMD Ryzen 7 PRO 8840HS.
-
-| Fichier | Dans le rapport |
-| --- | --- |
-| `results/tables/milp_summary.tex` | Tableau 1 |
-| `results/tables/algo1_table.tex` | Tableau 2 |
-| `results/tables/algo2_table.tex` | Tableau 3 |
-| `results/tables/synthesis_table.tex` | Tableau 4 |
-| `results/plots/convergence.csv` | Figure 6 |
-| `results/plots/tradeoff.csv` | Figure 7 |
+Ce petit menu en Python ne fait qu'appeler les commandes Julia du projet (`scripts/solve.jl`, `benchmark.jl`, `analyze.jl`, `test/runtests.jl`), pour éviter de les taper à la main. Les résultats du rapport sont déjà dans `results/`.
 
 ## Organisation
 

@@ -76,8 +76,9 @@ end
 # ---------- Table 1: MILP (families p2, p1, p3) ----------
 milp_files = filter(f -> startswith(f, "milp_runs_") && endswith(f, ".csv"), readdir(RAW))
 if !isempty(milp_files)
-    # One row per instance (the last file read wins if an instance appears twice).
-    milp = collect(values(Dict(r["instance"] => r for f in sort(milp_files) for r in readcsv(joinpath(RAW, f)))))
+    # One row per instance: if an instance was solved in several campaigns, the most recent file wins.
+    milp_files = sort(milp_files; by=f -> mtime(joinpath(RAW, f)))
+    milp = collect(values(Dict(r["instance"] => r for f in milp_files for r in readcsv(joinpath(RAW, f)))))
     fam(r) = r["instance"][1:2]
     a2profit(i) = mean([num(r, "profit") for r in by[(i, "A2")]])
     open(joinpath(TAB, "milp_summary.tex"), "w") do io

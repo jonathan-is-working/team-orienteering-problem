@@ -13,7 +13,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 REPORT = ROOT / "docs" / "Rapport_TOP_AI09_RO06_LE-Jonathan_CARON-Maxence.pdf"
-MILP_RESULTS = ROOT / "results" / "raw" / "milp_runs.csv"
 
 
 def julia_install_help():
@@ -70,11 +69,9 @@ def rerun_heuristics():
 
 def rerun_milp():
     print("\nRelance la PLNE sur p2, p1 et p3, 60 s au plus par instance (environ 1 h 45),")
-    print("puis régénère les tableaux. Nos résultats seront gardés dans milp_runs.csv.bak.")
+    print("puis régénère les tableaux. Les nouveaux résultats remplacent les nôtres.")
     if not confirm("Continuer ?"):
         return
-    if MILP_RESULTS.exists():
-        MILP_RESULTS.replace(MILP_RESULTS.with_suffix(".csv.bak"))
     for family in ("p2", "p1", "p3"):
         if not julia("scripts/benchmark.jl", "milp", family):
             return
