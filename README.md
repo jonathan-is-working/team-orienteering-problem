@@ -4,8 +4,6 @@
 
 Code du projet « Problèmes de tournées sélectives » de l'UTC (AI09 / RO06, 2026).
 
-**Auteurs :** Jonathan LE et Maxence CARON
-
 | Document | Lien |
 | --- | --- |
 | Sujet du projet | [`docs/Sujet_TOP_AI09_RO06.pdf`](docs/Sujet_TOP_AI09_RO06.pdf) |
@@ -64,3 +62,8 @@ lancer.py          menu de lancement
 ```
 
 Les instances viennent de Chao, Golden et Wasil (1996), et les meilleures solutions connues de Bouly, Dang et Moukrim (2010). Les sources sont détaillées dans [`PROVENANCE.md`](data/benchmarks/chao/PROVENANCE.md). Le code est sous licence [Apache 2.0](LICENSE).
+
+## Auteurs
+
+- Jonathan LE
+- Maxence CARON
