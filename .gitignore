@@ -1,0 +1,15 @@
+# Earlier versions and data not used by the report
+/archive/
+/data/synthetic/
+
+# Julia coverage and allocation files
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+*~
+*.bak

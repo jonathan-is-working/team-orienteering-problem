@@ -1,0 +1,5 @@
+name = "coincident-depots"
+m = 1
+limit = 4.0
+profits = [0.0, 3.0, 5.0, 0.0]
+coordinates = [[0.0, 0.0], [1.0, 0.0], [2.0, 0.0], [0.0, 0.0]]

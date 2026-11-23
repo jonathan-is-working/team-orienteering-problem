@@ -1,0 +1,18 @@
+name = "TopAI09"
+uuid = "3682f8fc-65c2-4173-8096-64fcd2d5f879"
+version = "0.1.0"
+
+[deps]
+HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+HiGHS = "1"
+JuMP = "1"
+Random = "1.11.0"
+TOML = "1.0.3"
+Test = "1.11.0"
+julia = "1.13"

@@ -1,0 +1,3111 @@
+{
+  "source_page": "https://www.hds.utc.fr/~moukrim/dokuwiki/en/top",
+  "archive_url": "https://www.hds.utc.fr/~moukrim/dokuwiki/_media/en/chao.zip",
+  "archive_sha256": "34d0b846e17f93b48f5a86d00f7673daafa9e706fa3bf886af41fde5838bb9d9",
+  "retrieved": "2026-11-18",
+  "format_url": "https://www.hds.utc.fr/~moukrim/dokuwiki/_media/en/format-top-instance.txt",
+  "archive_instance_count": 387,
+  "bks": {
+    "file": "bks.csv",
+    "source": "https://www.hds.utc.fr/~moukrim/dokuwiki/_media/en/hb_web_top.zip",
+    "column": "BEST of results/results.xls (Bouly, Dang and Moukrim, 2010), completed for 7 instances by the integer solution of Boussier, Feillet and Gendreau listed in errors/extractErr.csv of the same archive"
+  },
+  "files": [
+    {
+      "file": "p1.2.a.txt",
+      "archive_member": "Chao/p1.2.a.txt",
+      "sha256": "1f904963afac1984375d69d416849c57394a2065aa09a095446bb9e32d6d0976",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 2.5
+    },
+    {
+      "file": "p1.2.b.txt",
+      "archive_member": "Chao/p1.2.b.txt",
+      "sha256": "c9bf1c0cd43ef5823175b66630caba747a315fa4804c941cb0bf75c0a9a9c72e",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 5.0
+    },
+    {
+      "file": "p1.2.c.txt",
+      "archive_member": "Chao/p1.2.c.txt",
+      "sha256": "5b71d0d4d5a54732a24fead3c585e86c6ed97c04b584617e2a3c619013ed9dca",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 7.5
+    },
+    {
+      "file": "p1.2.d.txt",
+      "archive_member": "Chao/p1.2.d.txt",
+      "sha256": "ec71f6ba6403d594884d91e07bfa556b18e90a76b7760987c6e905187f0efaf3",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 10.0
+    },
+    {
+      "file": "p1.2.e.txt",
+      "archive_member": "Chao/p1.2.e.txt",
+      "sha256": "6d926b7a553f574564b478321abed7dd6175c9dc91b3cb44882b31307f085fd5",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 12.5
+    },
+    {
+      "file": "p1.2.f.txt",
+      "archive_member": "Chao/p1.2.f.txt",
+      "sha256": "c591c44569dfcdb71a280f402e720b2a07c15a29e892194a72c0ed304212d3f2",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 15.0
+    },
+    {
+      "file": "p1.2.g.txt",
+      "archive_member": "Chao/p1.2.g.txt",
+      "sha256": "93aa94b8ced0a830fdcd649778ed04bda31d77ad157e31fc5ba2955a46ed662d",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 17.5
+    },
+    {
+      "file": "p1.2.h.txt",
+      "archive_member": "Chao/p1.2.h.txt",
+      "sha256": "e9349a506784baa94f31404285ddb8503bcb743703f173488a37103b71f2f9a3",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 20.0
+    },
+    {
+      "file": "p1.2.i.txt",
+      "archive_member": "Chao/p1.2.i.txt",
+      "sha256": "fdd4aac71a929002effe8b9a5cf0f44ac5d2d76a03aa42b51a19bb6cd8faf955",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 23.0
+    },
+    {
+      "file": "p1.2.j.txt",
+      "archive_member": "Chao/p1.2.j.txt",
+      "sha256": "116c0d1d5d43321d8aa805c7fe9c1d335daff85c47403f900ebe1527996169e3",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 25.0
+    },
+    {
+      "file": "p1.2.k.txt",
+      "archive_member": "Chao/p1.2.k.txt",
+      "sha256": "35a2f0c8b8f04753e92741c94bfe7ba1254807169901ade97c9c0b14eddd6d73",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 27.5
+    },
+    {
+      "file": "p1.2.l.txt",
+      "archive_member": "Chao/p1.2.l.txt",
+      "sha256": "c18d5f5f9f922bfa276f8755724e9399ecfddb765dd3e59b9882b03912406570",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 30.0
+    },
+    {
+      "file": "p1.2.m.txt",
+      "archive_member": "Chao/p1.2.m.txt",
+      "sha256": "2b15c6e262e88b9d7d933bd0ba9ef2a663b504e3d58342e42f5f7d2205a65de0",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 32.5
+    },
+    {
+      "file": "p1.2.n.txt",
+      "archive_member": "Chao/p1.2.n.txt",
+      "sha256": "d060c8127db430eafafa6d6b6f3d75128d4eb49aa279598050cc076be477161a",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 35.0
+    },
+    {
+      "file": "p1.2.o.txt",
+      "archive_member": "Chao/p1.2.o.txt",
+      "sha256": "358dc44e9cdf36444ab31b3aa2cfe96b248086d3fafb62993ed49a2f8f540ae5",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 36.5
+    },
+    {
+      "file": "p1.2.p.txt",
+      "archive_member": "Chao/p1.2.p.txt",
+      "sha256": "f3281df4ea8d11337eade4b677f71f58ca548bc3e7a3f034cdb2a262fd8567b9",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 37.5
+    },
+    {
+      "file": "p1.2.q.txt",
+      "archive_member": "Chao/p1.2.q.txt",
+      "sha256": "dda845c75ebcbad3953c75c7ad9a1fbc27cc259296e62782a5e1da8fcb52a12d",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 40.0
+    },
+    {
+      "file": "p1.2.r.txt",
+      "archive_member": "Chao/p1.2.r.txt",
+      "sha256": "de161d5d9b076f95175a8d9baf09267829f4346f9105a43100e86533c2948f03",
+      "clients": 30,
+      "vehicles": 2,
+      "limit": 42.5
+    },
+    {
+      "file": "p1.3.a.txt",
+      "archive_member": "Chao/p1.3.a.txt",
+      "sha256": "e52175004b2e94cc8d4eaada4faa2145fd3df9f189ebca2d6f81ad9a683bbbcc",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 1.7
+    },
+    {
+      "file": "p1.3.b.txt",
+      "archive_member": "Chao/p1.3.b.txt",
+      "sha256": "e8af9942d18e2b3c9394c5cdaba1c7d49a5cfbd00f04780fd21c5dac7c6d7354",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 3.3
+    },
+    {
+      "file": "p1.3.c.txt",
+      "archive_member": "Chao/p1.3.c.txt",
+      "sha256": "107c3a0b7206cc34cd7596b81f2aa005eb732c9bb5352e93af25801bd801cece",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 5.0
+    },
+    {
+      "file": "p1.3.d.txt",
+      "archive_member": "Chao/p1.3.d.txt",
+      "sha256": "3d3d8399e5003faeed656f889c6c59889c1a28e9744a5a23f0406cb7d607a1a7",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 6.7
+    },
+    {
+      "file": "p1.3.e.txt",
+      "archive_member": "Chao/p1.3.e.txt",
+      "sha256": "5723b721abda2913590ce8ffbcf1cd03f76e33d5aec455d72229b2e12c6f7d19",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 8.3
+    },
+    {
+      "file": "p1.3.f.txt",
+      "archive_member": "Chao/p1.3.f.txt",
+      "sha256": "d6244796d4b54bb18932b4bfb6204a59b0d8f7c79ea085fbb33b8dcb79960852",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 10.0
+    },
+    {
+      "file": "p1.3.g.txt",
+      "archive_member": "Chao/p1.3.g.txt",
+      "sha256": "5556b1c60fd568a3384adc81250d3543dc87112fcc59ea3d89b20c756f0ceefb",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 11.7
+    },
+    {
+      "file": "p1.3.h.txt",
+      "archive_member": "Chao/p1.3.h.txt",
+      "sha256": "2b9ddbaceca5ad9865af586e743234bb153dfd3888746ea15e581b6ec6e28a64",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 13.3
+    },
+    {
+      "file": "p1.3.i.txt",
+      "archive_member": "Chao/p1.3.i.txt",
+      "sha256": "1fb6f9cf84a3e64683017f0f60c82f123b7606a345461b45a290c7081286a0c2",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 15.3
+    },
+    {
+      "file": "p1.3.j.txt",
+      "archive_member": "Chao/p1.3.j.txt",
+      "sha256": "5f801c2a1f978be68a3ce09f40966fbf701bb8c29ecd918fad4709ea962a54c9",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 16.7
+    },
+    {
+      "file": "p1.3.k.txt",
+      "archive_member": "Chao/p1.3.k.txt",
+      "sha256": "6c563b66d27c90218aeb9a518ac78fb95e6c8e8a9c8e3bf740e329f141e5409e",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 18.3
+    },
+    {
+      "file": "p1.3.l.txt",
+      "archive_member": "Chao/p1.3.l.txt",
+      "sha256": "c3f2e94ce7ebb45ffc92ad718452b8e2fafbac78cac0254656a656f90320cf8d",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 20.0
+    },
+    {
+      "file": "p1.3.m.txt",
+      "archive_member": "Chao/p1.3.m.txt",
+      "sha256": "da3521746a80cdc367954f8d7c8dbde009f96bcd8a7b2b6fab62b814d6dfef1a",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 21.7
+    },
+    {
+      "file": "p1.3.n.txt",
+      "archive_member": "Chao/p1.3.n.txt",
+      "sha256": "da8248cc8edf8305d8d325aaa83b36000d7892e7ec9e635afba8202a1dcc3dc0",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 23.3
+    },
+    {
+      "file": "p1.3.o.txt",
+      "archive_member": "Chao/p1.3.o.txt",
+      "sha256": "af500c413dba6cd675ea71fc40eee1bcd2f352156f1d8e6b03cf7e897caf18be",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 24.3
+    },
+    {
+      "file": "p1.3.p.txt",
+      "archive_member": "Chao/p1.3.p.txt",
+      "sha256": "f1be86ddcb4a41a2730e1e2c308747f70bef68f052160e7e228d163f78e79c47",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 25.0
+    },
+    {
+      "file": "p1.3.q.txt",
+      "archive_member": "Chao/p1.3.q.txt",
+      "sha256": "a3a17766b68c8a4713fda3c40daaa2c93684746a341487c1154bd09b43674760",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 26.7
+    },
+    {
+      "file": "p1.3.r.txt",
+      "archive_member": "Chao/p1.3.r.txt",
+      "sha256": "b35fd2b17a3332e97017acd61ec7bffd5d59426fb333c1bcbcc8dca2e2cb3c31",
+      "clients": 30,
+      "vehicles": 3,
+      "limit": 28.3
+    },
+    {
+      "file": "p1.4.a.txt",
+      "archive_member": "Chao/p1.4.a.txt",
+      "sha256": "816c669d6589e7dda5781b7b7d81aac0995630f4fbff7b1ccb50bb40edc6eca2",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 1.2
+    },
+    {
+      "file": "p1.4.b.txt",
+      "archive_member": "Chao/p1.4.b.txt",
+      "sha256": "7d6e1cb4f4f5a446184e783be338a073cf52250f61980e008f75f655c3de5101",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 2.5
+    },
+    {
+      "file": "p1.4.c.txt",
+      "archive_member": "Chao/p1.4.c.txt",
+      "sha256": "ca910c387b32629126cf3171a2c7cd0231572b700368a9511785453bacb1c57c",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 3.8
+    },
+    {
+      "file": "p1.4.d.txt",
+      "archive_member": "Chao/p1.4.d.txt",
+      "sha256": "53455aa6f343ace656478d5dc20f6a92e5473eb00ec3ea57d081fc4f18d971df",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 5.0
+    },
+    {
+      "file": "p1.4.e.txt",
+      "archive_member": "Chao/p1.4.e.txt",
+      "sha256": "3a1904121af72b3b3524e56e05c5ca7d7b920df3a3675629ad30c290927adf42",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 6.2
+    },
+    {
+      "file": "p1.4.f.txt",
+      "archive_member": "Chao/p1.4.f.txt",
+      "sha256": "bed9c711c61ed443de530ca84e7da630d2fc933df987ea02e8d78a95ba82a021",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 7.5
+    },
+    {
+      "file": "p1.4.g.txt",
+      "archive_member": "Chao/p1.4.g.txt",
+      "sha256": "2a875777b8eabc08b3f9c60093bf13026b0f778e1dd86aeb9c798c2487f8c118",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 8.8
+    },
+    {
+      "file": "p1.4.h.txt",
+      "archive_member": "Chao/p1.4.h.txt",
+      "sha256": "5944b2bbda61dd2533f295d9b3dbe05e58b43fbf143f0c09f3ac9502d5d058b7",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 10.0
+    },
+    {
+      "file": "p1.4.i.txt",
+      "archive_member": "Chao/p1.4.i.txt",
+      "sha256": "f4925dcf2d93338ac91680a6fb7013f52fb39639b6efed69b7de5aff2a8ac716",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 11.5
+    },
+    {
+      "file": "p1.4.j.txt",
+      "archive_member": "Chao/p1.4.j.txt",
+      "sha256": "d695168278115b4a965db37152ce427e812a4869213149087cb1c5f5d2b6fb86",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 12.5
+    },
+    {
+      "file": "p1.4.k.txt",
+      "archive_member": "Chao/p1.4.k.txt",
+      "sha256": "1dd11335e62c585251f56994f82b4167cfd956fcaaf5289f45961b0be5490f62",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 13.8
+    },
+    {
+      "file": "p1.4.l.txt",
+      "archive_member": "Chao/p1.4.l.txt",
+      "sha256": "d09570c85e35515daee2cbdddda0cbc6dda69bc8e680a27134c375087fa57c1d",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 15.0
+    },
+    {
+      "file": "p1.4.m.txt",
+      "archive_member": "Chao/p1.4.m.txt",
+      "sha256": "6ead1718e54134ff4e51de02fadc969cf70215fefcacdf78cb4ad6c1e7d86843",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 16.2
+    },
+    {
+      "file": "p1.4.n.txt",
+      "archive_member": "Chao/p1.4.n.txt",
+      "sha256": "4801a1e89cfd8db65c44b0de8a26bae976ef24d1fce6d6dbd507c7dae9cf98dc",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 17.5
+    },
+    {
+      "file": "p1.4.o.txt",
+      "archive_member": "Chao/p1.4.o.txt",
+      "sha256": "5e3c5c557bac22313f426d26967e5800628182ec72c96ad579df3999e2807715",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 18.2
+    },
+    {
+      "file": "p1.4.p.txt",
+      "archive_member": "Chao/p1.4.p.txt",
+      "sha256": "1bdf750ba1312c56ee3e1815a1fb82da88f7e7650ba2a8e7f7481078201ee74d",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 18.8
+    },
+    {
+      "file": "p1.4.q.txt",
+      "archive_member": "Chao/p1.4.q.txt",
+      "sha256": "aa0bd6bb8146dd978413e886314b839bbc622cf59a4c0d8ef439a40426f97b93",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 20.0
+    },
+    {
+      "file": "p1.4.r.txt",
+      "archive_member": "Chao/p1.4.r.txt",
+      "sha256": "7fcb49db7dc2f1bc16e2a18b5e28fbac780e5efe5b623cfa034f2fc2eb6b1a33",
+      "clients": 30,
+      "vehicles": 4,
+      "limit": 21.2
+    },
+    {
+      "file": "p2.2.a.txt",
+      "archive_member": "Chao/p2.2.a.txt",
+      "sha256": "b667a8404f736d85ffda8d7a9bab835654b6ef6fe9b7f9e2e5a72ef3ff2bad6a",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 7.5
+    },
+    {
+      "file": "p2.2.b.txt",
+      "archive_member": "Chao/p2.2.b.txt",
+      "sha256": "15e62c501d206e07a232f220728a06ebd8899bf3221b80b6acc2aee69e43ccef",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 10.0
+    },
+    {
+      "file": "p2.2.c.txt",
+      "archive_member": "Chao/p2.2.c.txt",
+      "sha256": "3d16bffdcc68ce5d7edcb04a224ec6fcb6223bbacb9327206a4f9ca187e67f60",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 11.5
+    },
+    {
+      "file": "p2.2.d.txt",
+      "archive_member": "Chao/p2.2.d.txt",
+      "sha256": "8dce83549951e0df7d464e46f4ebc1d0dbda42f6eb3929209f1cac7bda1062ef",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 12.5
+    },
+    {
+      "file": "p2.2.e.txt",
+      "archive_member": "Chao/p2.2.e.txt",
+      "sha256": "751c30d032a75c72dc3317165d722cbc87ab0a1c7fcc7287c74c2edda742e2d4",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 13.5
+    },
+    {
+      "file": "p2.2.f.txt",
+      "archive_member": "Chao/p2.2.f.txt",
+      "sha256": "0ebfa1a383c47fc7db53178d265b1995f89b2b15445dab643e7275d3dd3e9130",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 15.0
+    },
+    {
+      "file": "p2.2.g.txt",
+      "archive_member": "Chao/p2.2.g.txt",
+      "sha256": "a6270bdf2a2d7064d52c42c04176ebb32a506b17c77b6cfa9c646681c3ac78f0",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 16.0
+    },
+    {
+      "file": "p2.2.h.txt",
+      "archive_member": "Chao/p2.2.h.txt",
+      "sha256": "b848e89caac06cb75716e6485c27ba7273a4d177c54633246703e57255b51c47",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 17.5
+    },
+    {
+      "file": "p2.2.i.txt",
+      "archive_member": "Chao/p2.2.i.txt",
+      "sha256": "95812d67f277e021580fe6d3a2f232f7fad11f10717398f39b2f1e707f5f1ebe",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 19.0
+    },
+    {
+      "file": "p2.2.j.txt",
+      "archive_member": "Chao/p2.2.j.txt",
+      "sha256": "bd22315d7758951afdc88b6f2da222fcaf99447b40ce9d099d79a9f83aea7c0d",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 20.0
+    },
+    {
+      "file": "p2.2.k.txt",
+      "archive_member": "Chao/p2.2.k.txt",
+      "sha256": "6fcf748e79e792d3b47c985fe4319987aff27a74421af36aae0ae45c9d4e7b88",
+      "clients": 19,
+      "vehicles": 2,
+      "limit": 22.5
+    },
+    {
+      "file": "p2.3.a.txt",
+      "archive_member": "Chao/p2.3.a.txt",
+      "sha256": "ca965ed5afce077f3aa8f23502f02f35936c920e21060a4deb1272e6bbc1dfe1",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 5.0
+    },
+    {
+      "file": "p2.3.b.txt",
+      "archive_member": "Chao/p2.3.b.txt",
+      "sha256": "515a8dc95ccbba6a948dc35976946b92a68fa2cd336ff74e8b9fbc1e05c193c1",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 6.7
+    },
+    {
+      "file": "p2.3.c.txt",
+      "archive_member": "Chao/p2.3.c.txt",
+      "sha256": "6e60f528ed3b73391c433e8676f0c4e4a914fa6f751d2321d36419004540b773",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 7.7
+    },
+    {
+      "file": "p2.3.d.txt",
+      "archive_member": "Chao/p2.3.d.txt",
+      "sha256": "efd6718dcc391d61e93fdfa43f15d23712706ddf29f5b32afa2b8d8110b538cd",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 8.3
+    },
+    {
+      "file": "p2.3.e.txt",
+      "archive_member": "Chao/p2.3.e.txt",
+      "sha256": "e65df31ca552109a96bbaede94df676a30fff5751237d4ebb32553cb6ef27114",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 9.0
+    },
+    {
+      "file": "p2.3.f.txt",
+      "archive_member": "Chao/p2.3.f.txt",
+      "sha256": "3e2cad0c120529322d654a923053ace7cfe324fac4adc4cd9d0baed177248fee",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 10.0
+    },
+    {
+      "file": "p2.3.g.txt",
+      "archive_member": "Chao/p2.3.g.txt",
+      "sha256": "4ac7bfd08fb64f63ab14be8a39d9ecf27605ff217d93797c3c7073a821a1bf66",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 10.7
+    },
+    {
+      "file": "p2.3.h.txt",
+      "archive_member": "Chao/p2.3.h.txt",
+      "sha256": "e1687f0bea72e97bfbc1861043d1cec4e665ae921e96ffd858abfcfda8f35388",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 11.7
+    },
+    {
+      "file": "p2.3.i.txt",
+      "archive_member": "Chao/p2.3.i.txt",
+      "sha256": "94c468998665d41a28c12586bafe161047d2a0e902a056734b4b3d524a57f166",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 12.7
+    },
+    {
+      "file": "p2.3.j.txt",
+      "archive_member": "Chao/p2.3.j.txt",
+      "sha256": "171cc148705d848846f561fdd6121720ef37d26c563d09d8c523c688d0cfcfc4",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 13.3
+    },
+    {
+      "file": "p2.3.k.txt",
+      "archive_member": "Chao/p2.3.k.txt",
+      "sha256": "37cee9f491f2490249c0cadf398305cfc2797a9c8fb57ce343ff41fe18a86819",
+      "clients": 19,
+      "vehicles": 3,
+      "limit": 15.0
+    },
+    {
+      "file": "p2.4.a.txt",
+      "archive_member": "Chao/p2.4.a.txt",
+      "sha256": "ace134572b29dfa70c938a2a070ec97a333c9fbd91f50c4da3b1e03bf181c17d",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 3.8
+    },
+    {
+      "file": "p2.4.b.txt",
+      "archive_member": "Chao/p2.4.b.txt",
+      "sha256": "da64f219ebd6563b9367ea561a1791e3d8e4053c90b4a8d8f94721b42eb96415",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 5.0
+    },
+    {
+      "file": "p2.4.c.txt",
+      "archive_member": "Chao/p2.4.c.txt",
+      "sha256": "3c11cd9aead216813df61c802fcf7c723313afc67dc4cf4c17e9b49665f1d995",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 5.8
+    },
+    {
+      "file": "p2.4.d.txt",
+      "archive_member": "Chao/p2.4.d.txt",
+      "sha256": "dd10d42afdf74196158385de8c6ed7df31f67af52fd73c937f01012bfaebe75d",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 6.2
+    },
+    {
+      "file": "p2.4.e.txt",
+      "archive_member": "Chao/p2.4.e.txt",
+      "sha256": "6d7bb8a79d10db7e2a50e6a057d6a0c69c086cdaa2a55a7106f79e54335117c3",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 6.8
+    },
+    {
+      "file": "p2.4.f.txt",
+      "archive_member": "Chao/p2.4.f.txt",
+      "sha256": "1d8a79307833c042f52e3aad462210e9f271d8efd550320aa8351f34d99bd9d7",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 7.5
+    },
+    {
+      "file": "p2.4.g.txt",
+      "archive_member": "Chao/p2.4.g.txt",
+      "sha256": "80900afc751b00adaf62922b9bdac86fefd312cf066d8f50ca632310b42b1a6f",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 8.0
+    },
+    {
+      "file": "p2.4.h.txt",
+      "archive_member": "Chao/p2.4.h.txt",
+      "sha256": "6772d161444a57632844b2e8799cd08dba0f217d384c04ec6eeac6e9dbfa3aaf",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 8.8
+    },
+    {
+      "file": "p2.4.i.txt",
+      "archive_member": "Chao/p2.4.i.txt",
+      "sha256": "75e01ecd021bfaf2375a0d33e810ec6e87451738b34dfb27fa8cb78b5daac630",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 9.5
+    },
+    {
+      "file": "p2.4.j.txt",
+      "archive_member": "Chao/p2.4.j.txt",
+      "sha256": "608e8b99cc4b3ba30a87b9bac2d7d3c4b8a71800978382adb7e38d00fc27d46b",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 10.0
+    },
+    {
+      "file": "p2.4.k.txt",
+      "archive_member": "Chao/p2.4.k.txt",
+      "sha256": "a9167ca45f99e75931b50b8dbc38d063852475fa8bb1d8f6b1c5c89d49a4fb99",
+      "clients": 19,
+      "vehicles": 4,
+      "limit": 11.2
+    },
+    {
+      "file": "p3.2.a.txt",
+      "archive_member": "Chao/p3.2.a.txt",
+      "sha256": "bd6358c2fa03b10bd4c30b5a5310e03f975620b5a8a0137c125763b25df887fd",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 7.5
+    },
+    {
+      "file": "p3.2.b.txt",
+      "archive_member": "Chao/p3.2.b.txt",
+      "sha256": "0a64e60ee5be479c4feec06080c9af0e3da1a7797dc85f662ac0c1c9a80e5bb5",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 10.0
+    },
+    {
+      "file": "p3.2.c.txt",
+      "archive_member": "Chao/p3.2.c.txt",
+      "sha256": "18628f0b8dedcda2d47f829ae5824e2d8d9923ef66ddb19a542dfcb2e9b64464",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 12.5
+    },
+    {
+      "file": "p3.2.d.txt",
+      "archive_member": "Chao/p3.2.d.txt",
+      "sha256": "c86f281499adb46047350182c4a5ca22dd3221c086e808cea7d47a99208611c3",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 15.0
+    },
+    {
+      "file": "p3.2.e.txt",
+      "archive_member": "Chao/p3.2.e.txt",
+      "sha256": "074a955eea5029a26f6681f67bb896716bbf6bd1ad718fda1a1b6b7f1bc18e20",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 17.5
+    },
+    {
+      "file": "p3.2.f.txt",
+      "archive_member": "Chao/p3.2.f.txt",
+      "sha256": "6272ef8aa5527811ce8abf20a16e43ed37ca3bb89ae9d6f0ecff11e6211fd6ff",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 20.0
+    },
+    {
+      "file": "p3.2.g.txt",
+      "archive_member": "Chao/p3.2.g.txt",
+      "sha256": "7d40315393e7ae84b51f943c18d09836342919b2613945c17a8e63bf4381ef1b",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 22.5
+    },
+    {
+      "file": "p3.2.h.txt",
+      "archive_member": "Chao/p3.2.h.txt",
+      "sha256": "e709056b0cfbe977b77039c3c6be7d05a0ce93b9665d2b5b5818e61bddebc67d",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 25.0
+    },
+    {
+      "file": "p3.2.i.txt",
+      "archive_member": "Chao/p3.2.i.txt",
+      "sha256": "1604dfd25a5940f58dc511e156f5974b29806f04c9059cd5a91802ab16baf794",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 27.5
+    },
+    {
+      "file": "p3.2.j.txt",
+      "archive_member": "Chao/p3.2.j.txt",
+      "sha256": "f8431165b53484fa11f507551bc610a3571d202adddcf31b7756016883a4dc0e",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 30.0
+    },
+    {
+      "file": "p3.2.k.txt",
+      "archive_member": "Chao/p3.2.k.txt",
+      "sha256": "21c3dc47a1ccf757c464e98882abeff29004d689d9ec68d283e64f7d1e11d585",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 32.5
+    },
+    {
+      "file": "p3.2.l.txt",
+      "archive_member": "Chao/p3.2.l.txt",
+      "sha256": "e97082f425cc21cf333cf79fd6575286f700cff3646885e7a041716a69364bd0",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 35.0
+    },
+    {
+      "file": "p3.2.m.txt",
+      "archive_member": "Chao/p3.2.m.txt",
+      "sha256": "89683366a1cb87f3aa45557e263adb33f3259faa20d8ac1607d47ed26e967798",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 37.5
+    },
+    {
+      "file": "p3.2.n.txt",
+      "archive_member": "Chao/p3.2.n.txt",
+      "sha256": "e56ac66098864886ed070dcb082404151992ba9a5449f396412d841bfc64d648",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 40.0
+    },
+    {
+      "file": "p3.2.o.txt",
+      "archive_member": "Chao/p3.2.o.txt",
+      "sha256": "4aab1377a78196cd27c74fa8d777838a40b71db184f52632d2d5e0ab59e3c33f",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 42.5
+    },
+    {
+      "file": "p3.2.p.txt",
+      "archive_member": "Chao/p3.2.p.txt",
+      "sha256": "7aefc9a3d2fb818ddf5f3c2fed6d72907e2f621c8edd62b46a4c9ea64234e357",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 45.0
+    },
+    {
+      "file": "p3.2.q.txt",
+      "archive_member": "Chao/p3.2.q.txt",
+      "sha256": "761a0b50a3b5ef7d01157170e1db2fbb5ede8517b23b3a3750d01a2d1508e3cc",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 47.5
+    },
+    {
+      "file": "p3.2.r.txt",
+      "archive_member": "Chao/p3.2.r.txt",
+      "sha256": "026aafaa963d57867002b3d6652ebe5396a728bbba454bb9ddb0a2f084adf091",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 50.0
+    },
+    {
+      "file": "p3.2.s.txt",
+      "archive_member": "Chao/p3.2.s.txt",
+      "sha256": "1d840531fbf8ba53afe1386017baabcabee8ad7a5b0c0228766673e9e987bd9a",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 52.5
+    },
+    {
+      "file": "p3.2.t.txt",
+      "archive_member": "Chao/p3.2.t.txt",
+      "sha256": "b7ed532e3d0f5c27bec8949484b9a757ad726f9e71123ede7debfab4113ccf75",
+      "clients": 31,
+      "vehicles": 2,
+      "limit": 55.0
+    },
+    {
+      "file": "p3.3.a.txt",
+      "archive_member": "Chao/p3.3.a.txt",
+      "sha256": "d5b44fde92724dd6ce534dec4fb4f2343d4c74c0ccb70daeb98d574de991623a",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 5.0
+    },
+    {
+      "file": "p3.3.b.txt",
+      "archive_member": "Chao/p3.3.b.txt",
+      "sha256": "fe3a57410b754d2125e5a2d1ff0719da24ccd6b0f031d3d41ff0cabad57ec87e",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 6.7
+    },
+    {
+      "file": "p3.3.c.txt",
+      "archive_member": "Chao/p3.3.c.txt",
+      "sha256": "b92fcd0eb1bcfa297ecc98fc3398d519fe85d89a8cc1ba8e53783ff5b201e05a",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 8.3
+    },
+    {
+      "file": "p3.3.d.txt",
+      "archive_member": "Chao/p3.3.d.txt",
+      "sha256": "76ee41cbc14624724feae31d93aa042f8442fde4386c93f8dcd26a3c05f0e920",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 10.0
+    },
+    {
+      "file": "p3.3.e.txt",
+      "archive_member": "Chao/p3.3.e.txt",
+      "sha256": "823e7bfaa56b10b8fc2b3cab9e180becf8293e769d4409747e3b3910486ad487",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 11.7
+    },
+    {
+      "file": "p3.3.f.txt",
+      "archive_member": "Chao/p3.3.f.txt",
+      "sha256": "b439e44f52af3812074b36697ab5e553085c855574dc883f3aaf1c399cd499ae",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 13.3
+    },
+    {
+      "file": "p3.3.g.txt",
+      "archive_member": "Chao/p3.3.g.txt",
+      "sha256": "594627828123a3d3f768b46c9f6462679c536b1179d5b58fce8f7c1e12ddc9fa",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 15.0
+    },
+    {
+      "file": "p3.3.h.txt",
+      "archive_member": "Chao/p3.3.h.txt",
+      "sha256": "5828145e7477f0cadec1918af6434ce57d3de1dd48bf3fbf2c7072464e2b6aaf",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 16.7
+    },
+    {
+      "file": "p3.3.i.txt",
+      "archive_member": "Chao/p3.3.i.txt",
+      "sha256": "4cefbb8dcdf56dba2e07cdca67c82e2e665bc17a7b855b25036cd3a7ccfac167",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 18.3
+    },
+    {
+      "file": "p3.3.j.txt",
+      "archive_member": "Chao/p3.3.j.txt",
+      "sha256": "1e70b98b6dad04c0896d0e4c157126cd0b10287e986c68df3d3960c35ec40837",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 20.0
+    },
+    {
+      "file": "p3.3.k.txt",
+      "archive_member": "Chao/p3.3.k.txt",
+      "sha256": "98f8d39462f6f26a223001c206e62035281582d6acf0f54db0a1d43f66722caa",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 21.7
+    },
+    {
+      "file": "p3.3.l.txt",
+      "archive_member": "Chao/p3.3.l.txt",
+      "sha256": "f4c66906801d450aeed75caa26351d0a648a9a2227140a9154b4ac7397d36e09",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 23.3
+    },
+    {
+      "file": "p3.3.m.txt",
+      "archive_member": "Chao/p3.3.m.txt",
+      "sha256": "fd0c3a5d45cd20ee5096c41ed6eefb349baa596fb44e7c15156e2c8f378e0cf8",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 25.0
+    },
+    {
+      "file": "p3.3.n.txt",
+      "archive_member": "Chao/p3.3.n.txt",
+      "sha256": "22e0a8fade85523e08f47ad8ecf8a1fc9fb17bceab9bfa03f342bbd9417de731",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 26.7
+    },
+    {
+      "file": "p3.3.o.txt",
+      "archive_member": "Chao/p3.3.o.txt",
+      "sha256": "659b93b0586fadd4347f8d023c95cd2d9d56447eae87b91960242b3d0f27d725",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 28.3
+    },
+    {
+      "file": "p3.3.p.txt",
+      "archive_member": "Chao/p3.3.p.txt",
+      "sha256": "53239eab3433d098b55475ee611c2155444790ff0a8f38dc952e69eaa7534a86",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 30.0
+    },
+    {
+      "file": "p3.3.q.txt",
+      "archive_member": "Chao/p3.3.q.txt",
+      "sha256": "d9977173f2a0f1026fd290bbeff19fa02101d9e50d5d112d9004b3487d554b1b",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 31.7
+    },
+    {
+      "file": "p3.3.r.txt",
+      "archive_member": "Chao/p3.3.r.txt",
+      "sha256": "ce0cfabf43f9c5b22223d3f91ce92e68b568dbb7057fadb8de75b0348c85ce7b",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 33.3
+    },
+    {
+      "file": "p3.3.s.txt",
+      "archive_member": "Chao/p3.3.s.txt",
+      "sha256": "14e1022c728e79b161fd86e0b4c851482e61cdbe36e8d44ac24533e4608915dd",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 35.0
+    },
+    {
+      "file": "p3.3.t.txt",
+      "archive_member": "Chao/p3.3.t.txt",
+      "sha256": "26d268cc70f3709d6f538490f522a53a4a917ef1efd591b2fcb36007a41229c1",
+      "clients": 31,
+      "vehicles": 3,
+      "limit": 36.7
+    },
+    {
+      "file": "p3.4.a.txt",
+      "archive_member": "Chao/p3.4.a.txt",
+      "sha256": "c7e12bca80422b3d0196c152cac61ff793cf8d3fa73c0209c41dcd1a70b5d18a",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 3.8
+    },
+    {
+      "file": "p3.4.b.txt",
+      "archive_member": "Chao/p3.4.b.txt",
+      "sha256": "92efabd9ee1c36aa057e499c3bef42b88210a122f8a162ede3b5da2e8a581044",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 5.0
+    },
+    {
+      "file": "p3.4.c.txt",
+      "archive_member": "Chao/p3.4.c.txt",
+      "sha256": "3b331aeb0d461e0c3c0c60010a9a9b63753967375040ff56f066b5623a6d8ce9",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 6.2
+    },
+    {
+      "file": "p3.4.d.txt",
+      "archive_member": "Chao/p3.4.d.txt",
+      "sha256": "5dcc99ef9ab6edaa2e730a612aa08fdb1a5e200dcbae98b7f6c6ab637774c8cb",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 7.5
+    },
+    {
+      "file": "p3.4.e.txt",
+      "archive_member": "Chao/p3.4.e.txt",
+      "sha256": "da1c11508e2c49296799777e35fc07cdabcd282a8b9f6748dc93b556762415a0",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 8.8
+    },
+    {
+      "file": "p3.4.f.txt",
+      "archive_member": "Chao/p3.4.f.txt",
+      "sha256": "d4296f7c7a038dd3450777fb22f8c1ad409aa02b3d9da82c03eb8ad2f6b09889",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 10.0
+    },
+    {
+      "file": "p3.4.g.txt",
+      "archive_member": "Chao/p3.4.g.txt",
+      "sha256": "ca1978526702f3d1f8c9535bf67e82c282313656552e10baad0b8d6ef5bba20d",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 11.2
+    },
+    {
+      "file": "p3.4.h.txt",
+      "archive_member": "Chao/p3.4.h.txt",
+      "sha256": "66e6fa688ca88b2a90e88b554ca79109b5f171cca50d41143d64af55a025f909",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 12.5
+    },
+    {
+      "file": "p3.4.i.txt",
+      "archive_member": "Chao/p3.4.i.txt",
+      "sha256": "9072950245fb56e65e9de51e85648a89296dbd7633797edce33a095d488949af",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 13.8
+    },
+    {
+      "file": "p3.4.j.txt",
+      "archive_member": "Chao/p3.4.j.txt",
+      "sha256": "9238dec49d8dc34ddcd691ec3cb12d8c691e494d35048792db2f6541d9352cb9",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 15.0
+    },
+    {
+      "file": "p3.4.k.txt",
+      "archive_member": "Chao/p3.4.k.txt",
+      "sha256": "97222b947bb3cf18c149a83e113034ed79dd387c3af98c320d05cdafa0e1c527",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 16.2
+    },
+    {
+      "file": "p3.4.l.txt",
+      "archive_member": "Chao/p3.4.l.txt",
+      "sha256": "5273af778af1540f4746113fcc0ae224d341fbdd86f83a368696298a497a57c4",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 17.5
+    },
+    {
+      "file": "p3.4.m.txt",
+      "archive_member": "Chao/p3.4.m.txt",
+      "sha256": "886ef9006e40277f26849af420fd7d20596a737dbff7c2226cffdaef23376fac",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 18.8
+    },
+    {
+      "file": "p3.4.n.txt",
+      "archive_member": "Chao/p3.4.n.txt",
+      "sha256": "ed453a9d454d31f6cff32b51adfcbbf4581c9ebd5338015bb57481e41b410234",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 20.0
+    },
+    {
+      "file": "p3.4.o.txt",
+      "archive_member": "Chao/p3.4.o.txt",
+      "sha256": "a2f4526e006d00a312ddbb209decd7258ebc65166b347b4c7841e7a5c5194b48",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 21.2
+    },
+    {
+      "file": "p3.4.p.txt",
+      "archive_member": "Chao/p3.4.p.txt",
+      "sha256": "cf9da69ab3a9fccac8170a2649c63cee1c7a3d6159cce49a8f807032912f3ae4",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 22.5
+    },
+    {
+      "file": "p3.4.q.txt",
+      "archive_member": "Chao/p3.4.q.txt",
+      "sha256": "f12a701efa1c06ec9cb732e7d367e0a803ded2b84d4a254983ad92c779dc2977",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 23.8
+    },
+    {
+      "file": "p3.4.r.txt",
+      "archive_member": "Chao/p3.4.r.txt",
+      "sha256": "85c1039f54c274e113900f8acc0315e49efa8927cb9265b20921e5c60b01c298",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 25.0
+    },
+    {
+      "file": "p3.4.s.txt",
+      "archive_member": "Chao/p3.4.s.txt",
+      "sha256": "a600f6e4cfe720ad84d6501ab9e4660475931bb0fc610ffc73a0a6c9e0e6cd5d",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 26.2
+    },
+    {
+      "file": "p3.4.t.txt",
+      "archive_member": "Chao/p3.4.t.txt",
+      "sha256": "8cfc1baec20c964b0c96ea3118a6c2baa862f7569b7a752b5d15adf7321a2cc1",
+      "clients": 31,
+      "vehicles": 4,
+      "limit": 27.5
+    },
+    {
+      "file": "p4.2.a.txt",
+      "archive_member": "Chao/p4.2.a.txt",
+      "sha256": "1d4baf5f1a3e3bca5aeea96cbce1ad2f081202e4d3b090a38f78d9e15f4953d4",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 25.0
+    },
+    {
+      "file": "p4.2.b.txt",
+      "archive_member": "Chao/p4.2.b.txt",
+      "sha256": "640c186bddd09b6cbf2d9eb7254a694f1aed18ae734e3a8df41a88b2bcea92f3",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 30.0
+    },
+    {
+      "file": "p4.2.c.txt",
+      "archive_member": "Chao/p4.2.c.txt",
+      "sha256": "b7255f76e19bd72aa70f882c570f7f2adbf40153ee3309e975f03a116dbd585f",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 35.0
+    },
+    {
+      "file": "p4.2.d.txt",
+      "archive_member": "Chao/p4.2.d.txt",
+      "sha256": "5681583d4db3de3dafcefa3070c032990c42e9d967c154365921dbe035e7ce23",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 40.0
+    },
+    {
+      "file": "p4.2.e.txt",
+      "archive_member": "Chao/p4.2.e.txt",
+      "sha256": "4432e9e12af9e7035d648c7aafae4476466056dada2da1e96a92a8635f93c9ca",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 45.0
+    },
+    {
+      "file": "p4.2.f.txt",
+      "archive_member": "Chao/p4.2.f.txt",
+      "sha256": "07287fdd14bd86b0e15e5def15e5ef7c805e6b941c01a4d7ed5189c5549d268a",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 50.0
+    },
+    {
+      "file": "p4.2.g.txt",
+      "archive_member": "Chao/p4.2.g.txt",
+      "sha256": "e37d8a620d8cfa0b37645bd51c79f4d0116a6f3918024770333a70388d650bd4",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 55.0
+    },
+    {
+      "file": "p4.2.h.txt",
+      "archive_member": "Chao/p4.2.h.txt",
+      "sha256": "d13afffb9052b9d2c3866dc7fd51133db3f9404739f3d8c98c62765568d31999",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 60.0
+    },
+    {
+      "file": "p4.2.i.txt",
+      "archive_member": "Chao/p4.2.i.txt",
+      "sha256": "5b5d0ae9682387dcefcf85fce9fa567b4ddc7fce46f92737c5ae913ac02ee4f8",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 65.0
+    },
+    {
+      "file": "p4.2.j.txt",
+      "archive_member": "Chao/p4.2.j.txt",
+      "sha256": "96e237683e18420055d9f098438818ed7463e842bde8470184d9320ec3096fb3",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 70.0
+    },
+    {
+      "file": "p4.2.k.txt",
+      "archive_member": "Chao/p4.2.k.txt",
+      "sha256": "5e9f752f9615dc3bb913726b3b2c3ba91d68fa19ed2e044ef81485865a01d0a5",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 75.0
+    },
+    {
+      "file": "p4.2.l.txt",
+      "archive_member": "Chao/p4.2.l.txt",
+      "sha256": "73742f7abc3d809e3a3f2e3d6aaf6ca03d0732c5f653c1b9b4758e668412f441",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 80.0
+    },
+    {
+      "file": "p4.2.m.txt",
+      "archive_member": "Chao/p4.2.m.txt",
+      "sha256": "1e160e5cc4b371dd53aceb842bf82f38fd2e00114d553d0d7abc71210910ce85",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 85.0
+    },
+    {
+      "file": "p4.2.n.txt",
+      "archive_member": "Chao/p4.2.n.txt",
+      "sha256": "797fad314e529fbea03f0a50299ca83c9bdfe6fb6d11fe287e51a2fefdfe11f3",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 90.0
+    },
+    {
+      "file": "p4.2.o.txt",
+      "archive_member": "Chao/p4.2.o.txt",
+      "sha256": "7fa2ad24e5d3f83e935f2df0ab85ea8d6fa7049bfc3a31912721a2cb6d7ed94a",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 95.0
+    },
+    {
+      "file": "p4.2.p.txt",
+      "archive_member": "Chao/p4.2.p.txt",
+      "sha256": "8a3062b9a759a4b67b76e5726333f83c5551162db2e536beca8ad5007f6dbd40",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 100.0
+    },
+    {
+      "file": "p4.2.q.txt",
+      "archive_member": "Chao/p4.2.q.txt",
+      "sha256": "f87697b7a2079b86ca2eab32db3d40ff7c77ae8bce879c1550a0e6560fa9e930",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 105.0
+    },
+    {
+      "file": "p4.2.r.txt",
+      "archive_member": "Chao/p4.2.r.txt",
+      "sha256": "ec2f90691160f34d24fbe534155520d24f0c40d66b327d2b72c96ee861072c77",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 110.0
+    },
+    {
+      "file": "p4.2.s.txt",
+      "archive_member": "Chao/p4.2.s.txt",
+      "sha256": "e802ae110b01b7392c9f2cf9fe5f59e885944c8f840a083194ebcc68f7f90348",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 115.0
+    },
+    {
+      "file": "p4.2.t.txt",
+      "archive_member": "Chao/p4.2.t.txt",
+      "sha256": "a52dd74960a48a40c47522e3ea06612a15e4561228e80469ed1d87894022b29b",
+      "clients": 98,
+      "vehicles": 2,
+      "limit": 120.0
+    },
+    {
+      "file": "p4.3.a.txt",
+      "archive_member": "Chao/p4.3.a.txt",
+      "sha256": "b1b004c04dbc7458686d3905b070bd3b3db1cf52a49d77672d89185d0dfd4574",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 16.7
+    },
+    {
+      "file": "p4.3.b.txt",
+      "archive_member": "Chao/p4.3.b.txt",
+      "sha256": "42868fdf2960ba8565a81fb75b08039390faf093cae201cc3e24ca9baf6857f5",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 20.0
+    },
+    {
+      "file": "p4.3.c.txt",
+      "archive_member": "Chao/p4.3.c.txt",
+      "sha256": "17082ffae168243e88bc7d6a68a51af7fe961194f67d387f861d2fdad56ac3d9",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 23.3
+    },
+    {
+      "file": "p4.3.d.txt",
+      "archive_member": "Chao/p4.3.d.txt",
+      "sha256": "750b95b6a4c4b3a9471111053f9b1fa8d256afb4ca32233e09920aa1a14ad69b",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 26.7
+    },
+    {
+      "file": "p4.3.e.txt",
+      "archive_member": "Chao/p4.3.e.txt",
+      "sha256": "0c11cfa628bee470b1fdda7e2001d057bbedf4a8cba081e842831a617df67d8d",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 30.0
+    },
+    {
+      "file": "p4.3.f.txt",
+      "archive_member": "Chao/p4.3.f.txt",
+      "sha256": "4c104dff04d0512c15fcfd5fec4d94e03f3514950b0ea705f89d6e3549837fca",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 33.3
+    },
+    {
+      "file": "p4.3.g.txt",
+      "archive_member": "Chao/p4.3.g.txt",
+      "sha256": "c3c934fed72156c3fcd1aae1f4d13932521dee6588099f704600e71da9fd42ac",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 36.7
+    },
+    {
+      "file": "p4.3.h.txt",
+      "archive_member": "Chao/p4.3.h.txt",
+      "sha256": "40b70e85f572a74ea6e50c57c77eb4cf6d61c52e55df9942cbac1c4bdcd7baca",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 40.0
+    },
+    {
+      "file": "p4.3.i.txt",
+      "archive_member": "Chao/p4.3.i.txt",
+      "sha256": "56977b18ee070c1ef836f27007c0120bc592094a685988a363aebc894f2a17a1",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 43.3
+    },
+    {
+      "file": "p4.3.j.txt",
+      "archive_member": "Chao/p4.3.j.txt",
+      "sha256": "55e62f7d647ee2d25edf30a2f71a479538af6e763f257b00f29cd5e18cb631fd",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 46.7
+    },
+    {
+      "file": "p4.3.k.txt",
+      "archive_member": "Chao/p4.3.k.txt",
+      "sha256": "11e9ecb2a1e3d91895014c1f98b7376bfb76aba69cd87696e9bf39d483045c35",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 50.0
+    },
+    {
+      "file": "p4.3.l.txt",
+      "archive_member": "Chao/p4.3.l.txt",
+      "sha256": "994c691cbed41b3268ed1d0f9996a4fedfc2573863d933505a2dd79d58ad568f",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 53.3
+    },
+    {
+      "file": "p4.3.m.txt",
+      "archive_member": "Chao/p4.3.m.txt",
+      "sha256": "33a28555a032b42680a2cc2a5af19370e1b494142eb9e4e54428d4de109df129",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 56.7
+    },
+    {
+      "file": "p4.3.n.txt",
+      "archive_member": "Chao/p4.3.n.txt",
+      "sha256": "a9528a506f04f93e951805928907aee63413fd68203137558efb86ce7ca40e6b",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 60.0
+    },
+    {
+      "file": "p4.3.o.txt",
+      "archive_member": "Chao/p4.3.o.txt",
+      "sha256": "1924ae360244b2d3ec3f443b9299281de0d21d3883eb71756c664052338f60e6",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 63.3
+    },
+    {
+      "file": "p4.3.p.txt",
+      "archive_member": "Chao/p4.3.p.txt",
+      "sha256": "eb1ef7a9721e0dffeb6ddfc341fb311c88d4a4863a85e9fbd35aac0dc9c852f2",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 66.7
+    },
+    {
+      "file": "p4.3.q.txt",
+      "archive_member": "Chao/p4.3.q.txt",
+      "sha256": "7532325c02842126eec80d5b74844118781e83556a77e8a282fd7464374bc964",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 70.0
+    },
+    {
+      "file": "p4.3.r.txt",
+      "archive_member": "Chao/p4.3.r.txt",
+      "sha256": "d16d5dbc73590d57fd497d583f147dfc5c6076db790d0c28950eef24124c0d7e",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 73.3
+    },
+    {
+      "file": "p4.3.s.txt",
+      "archive_member": "Chao/p4.3.s.txt",
+      "sha256": "e3154066ae977900643ec4bb662ef7fb3d7f41080804d58fb50dc8b79b9b95e3",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 76.7
+    },
+    {
+      "file": "p4.3.t.txt",
+      "archive_member": "Chao/p4.3.t.txt",
+      "sha256": "6cbeade12043bd3086672b4dcbfe3a9f967db1a9fa989ff0a8d1f20af4a7fbf8",
+      "clients": 98,
+      "vehicles": 3,
+      "limit": 80.0
+    },
+    {
+      "file": "p4.4.a.txt",
+      "archive_member": "Chao/p4.4.a.txt",
+      "sha256": "d34d3657aa1a783608d3af1c1b4a423311edff0647a5fdaacb1cd64c2780634a",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 12.5
+    },
+    {
+      "file": "p4.4.b.txt",
+      "archive_member": "Chao/p4.4.b.txt",
+      "sha256": "8fa47e4459072d8af8b708bf9aaad42f3c804e6ba002f6638380e6fedb735cd9",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 15.0
+    },
+    {
+      "file": "p4.4.c.txt",
+      "archive_member": "Chao/p4.4.c.txt",
+      "sha256": "ca9880ea815c6f76b690826832358b7db0cde8eef984a1c608443bb108064f2e",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 17.5
+    },
+    {
+      "file": "p4.4.d.txt",
+      "archive_member": "Chao/p4.4.d.txt",
+      "sha256": "c65c36424e82cedff3added6b30e85bef74fc7022d227658dcbbfbeb6e52d2a3",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 20.0
+    },
+    {
+      "file": "p4.4.e.txt",
+      "archive_member": "Chao/p4.4.e.txt",
+      "sha256": "5f3c25b422168ced2daf3ad5231722a4d81c6fb19a5f68767852cef32020daab",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 22.5
+    },
+    {
+      "file": "p4.4.f.txt",
+      "archive_member": "Chao/p4.4.f.txt",
+      "sha256": "bb8c9ca2254ba4099c904596a68275e35aa7091e89f022c6bee14d893686154c",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 25.0
+    },
+    {
+      "file": "p4.4.g.txt",
+      "archive_member": "Chao/p4.4.g.txt",
+      "sha256": "fbec2d8b0a98241b6805906dbefb90bf66fc3294d2f41322284448a1b27af7c2",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 27.5
+    },
+    {
+      "file": "p4.4.h.txt",
+      "archive_member": "Chao/p4.4.h.txt",
+      "sha256": "a534854156242d6cfef35bd5f157e729c290775bcec2b84467f9e00091e5cdd8",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 30.0
+    },
+    {
+      "file": "p4.4.i.txt",
+      "archive_member": "Chao/p4.4.i.txt",
+      "sha256": "979defbc28d76a1fa8584e9225aa3b53df988b74a1386ffb2fb6a50ccf784a01",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 32.5
+    },
+    {
+      "file": "p4.4.j.txt",
+      "archive_member": "Chao/p4.4.j.txt",
+      "sha256": "7d55ba48171381d752ddda24bf28fae55f466de82148082c07f5a25a5a05e5e3",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 35.0
+    },
+    {
+      "file": "p4.4.k.txt",
+      "archive_member": "Chao/p4.4.k.txt",
+      "sha256": "a6b72c60b1ef0a7d53f21a86474b2d4716aada783a3cec98212640653631a13f",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 37.5
+    },
+    {
+      "file": "p4.4.l.txt",
+      "archive_member": "Chao/p4.4.l.txt",
+      "sha256": "a9aa2787e332a65b50457c7dd0932f897faba9e77bf41b56da30b250ac0d2e96",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 40.0
+    },
+    {
+      "file": "p4.4.m.txt",
+      "archive_member": "Chao/p4.4.m.txt",
+      "sha256": "41254a1706b8d9f9613c63df0f2199b941b26e93e98325fbdac61dbadd81196b",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 42.5
+    },
+    {
+      "file": "p4.4.n.txt",
+      "archive_member": "Chao/p4.4.n.txt",
+      "sha256": "d6b8376f54506709e34faa87b0552a85a23a7c055a1b1d248923c994f7f270c7",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 45.0
+    },
+    {
+      "file": "p4.4.o.txt",
+      "archive_member": "Chao/p4.4.o.txt",
+      "sha256": "eaf8e4d40e885879d52d77a8b393f9ffed58959bf1e3bc6c2e8d7fe3407484b1",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 47.5
+    },
+    {
+      "file": "p4.4.p.txt",
+      "archive_member": "Chao/p4.4.p.txt",
+      "sha256": "d7531010f559e01be8c1866ca97a03990e6e31dca004539022a38dac1f00a116",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 50.0
+    },
+    {
+      "file": "p4.4.q.txt",
+      "archive_member": "Chao/p4.4.q.txt",
+      "sha256": "7eb90ff215dbf0a603e8dcf709f8651aec0cb30d60d8bd5b0f3689a7f022aa49",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 52.5
+    },
+    {
+      "file": "p4.4.r.txt",
+      "archive_member": "Chao/p4.4.r.txt",
+      "sha256": "60e6fb209de1b97e4166a71eb9de9fd70a6abcea44ef7ea065c1c1e332a82be9",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 55.0
+    },
+    {
+      "file": "p4.4.s.txt",
+      "archive_member": "Chao/p4.4.s.txt",
+      "sha256": "5c6cc69221fa5ab04295eb94b9087209864942ac199d63418bafff0021a83f4d",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 57.5
+    },
+    {
+      "file": "p4.4.t.txt",
+      "archive_member": "Chao/p4.4.t.txt",
+      "sha256": "04f9075208b3a5fd54d2aba4f3cf9f4822056d8f39a0a65c77f004d4bf6f0a6b",
+      "clients": 98,
+      "vehicles": 4,
+      "limit": 60.0
+    },
+    {
+      "file": "p5.2.a.txt",
+      "archive_member": "Chao/p5.2.a.txt",
+      "sha256": "3fd439ea0d8cab2c6b1dc810c3c6f80b460e6317bfa855f41732d3f3a8a20b7f",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 2.5
+    },
+    {
+      "file": "p5.2.b.txt",
+      "archive_member": "Chao/p5.2.b.txt",
+      "sha256": "dab645a9a5399d89e329bb873ef93beb43fcb629478f1275359f6ad82a04142e",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 5.0
+    },
+    {
+      "file": "p5.2.c.txt",
+      "archive_member": "Chao/p5.2.c.txt",
+      "sha256": "91cd1b69ec09b21ec51d411b4ba07ca35a5ca5ef8ae6f167f8ba1247e84a70d7",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 7.5
+    },
+    {
+      "file": "p5.2.d.txt",
+      "archive_member": "Chao/p5.2.d.txt",
+      "sha256": "740e3fcc99ac03179bb5954250a5dd6b68569d5ff16a11d8f581301eb63646c8",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 10.0
+    },
+    {
+      "file": "p5.2.e.txt",
+      "archive_member": "Chao/p5.2.e.txt",
+      "sha256": "e52019fed85ee9603a4d7c7434a26b345e5be19e5d7acd1b32649859f3462aa3",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 12.5
+    },
+    {
+      "file": "p5.2.f.txt",
+      "archive_member": "Chao/p5.2.f.txt",
+      "sha256": "a8d1b37f68321976e53cbb3b728e7841a808f20dbb154444ff86b61939f36b67",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 15.0
+    },
+    {
+      "file": "p5.2.g.txt",
+      "archive_member": "Chao/p5.2.g.txt",
+      "sha256": "95d4239f88d22fe1c3376cb2a8b2a7b510badc3c91529d34cbd208dbc954e307",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 17.5
+    },
+    {
+      "file": "p5.2.h.txt",
+      "archive_member": "Chao/p5.2.h.txt",
+      "sha256": "bb01fd85b7345a0867f0c3f6b2c8f795feb48e68052f90e33f10f4440b5e9f5a",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 20.0
+    },
+    {
+      "file": "p5.2.i.txt",
+      "archive_member": "Chao/p5.2.i.txt",
+      "sha256": "c41586715e6fb2bbdc5e0532e2b33c8a6fbaa1e88587ec11a0dcb9bb65746b7a",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 22.5
+    },
+    {
+      "file": "p5.2.j.txt",
+      "archive_member": "Chao/p5.2.j.txt",
+      "sha256": "63b6657a198ba94df9fe45623987cb517bab77cacc8664f8224358e095354eaf",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 25.0
+    },
+    {
+      "file": "p5.2.k.txt",
+      "archive_member": "Chao/p5.2.k.txt",
+      "sha256": "bed26c75128e45c46f57e761d4fa4144582fd0cbaad551cf95d807ef60bc274c",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 27.5
+    },
+    {
+      "file": "p5.2.l.txt",
+      "archive_member": "Chao/p5.2.l.txt",
+      "sha256": "f671bd85d0655921d301f03a2e475b1f8ba51fd5f9615551613f250d3ad42144",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 30.0
+    },
+    {
+      "file": "p5.2.m.txt",
+      "archive_member": "Chao/p5.2.m.txt",
+      "sha256": "a9757ef8a059abcd85782acdc2ee28bb6bdc82198627977fca6314ebfd470c1e",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 32.5
+    },
+    {
+      "file": "p5.2.n.txt",
+      "archive_member": "Chao/p5.2.n.txt",
+      "sha256": "520e9cb4beb2761f8d32fc2ce8e634c563274e47ee2755768fee8a4ea02c9cfb",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 35.0
+    },
+    {
+      "file": "p5.2.o.txt",
+      "archive_member": "Chao/p5.2.o.txt",
+      "sha256": "24eb77d3ee9d49d1708dd1c1f0bcdc48c596c0cbe33c9e64578be0a866c994d8",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 37.5
+    },
+    {
+      "file": "p5.2.p.txt",
+      "archive_member": "Chao/p5.2.p.txt",
+      "sha256": "29a93a6579c69b0dcfc020477326c679f96c5efe3c15182d6ed8b67802bf9387",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 40.0
+    },
+    {
+      "file": "p5.2.q.txt",
+      "archive_member": "Chao/p5.2.q.txt",
+      "sha256": "bfb0a7b2eecd9e4e2fb3dc1ca27ce163f668490dedad5b2bca0d7f8506d7fa77",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 42.5
+    },
+    {
+      "file": "p5.2.r.txt",
+      "archive_member": "Chao/p5.2.r.txt",
+      "sha256": "22a57ab931c5eddaf427b19726d97efa12e466e5d58c9566fb19a07ae06f0720",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 45.0
+    },
+    {
+      "file": "p5.2.s.txt",
+      "archive_member": "Chao/p5.2.s.txt",
+      "sha256": "8ab339994ce4312e1dde23f6ed3768d2a5a2a8617b035589ebf58b98d10eaf76",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 47.5
+    },
+    {
+      "file": "p5.2.t.txt",
+      "archive_member": "Chao/p5.2.t.txt",
+      "sha256": "8ebfaddc7c17f489e02afc30725b3041d6bebfbc9390991aded5596b69bebfbe",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 50.0
+    },
+    {
+      "file": "p5.2.u.txt",
+      "archive_member": "Chao/p5.2.u.txt",
+      "sha256": "61fb7403da933375052a511fdb0c5b04786d2e99893d7541bd8cb7d69c3e3ebe",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 52.5
+    },
+    {
+      "file": "p5.2.v.txt",
+      "archive_member": "Chao/p5.2.v.txt",
+      "sha256": "168904faf2553e052de6633eced7f059bbfb8315b1a6004954ae63bc0b8f5118",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 55.0
+    },
+    {
+      "file": "p5.2.w.txt",
+      "archive_member": "Chao/p5.2.w.txt",
+      "sha256": "acf0b042eba8d81d6e109eacee9b134e38d22f16d425b18a24447ccea615eceb",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 57.5
+    },
+    {
+      "file": "p5.2.x.txt",
+      "archive_member": "Chao/p5.2.x.txt",
+      "sha256": "bc5a0dd23011cae23a537e4ddd5f1ce20f44b333e9a40374ab44920349a29517",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 60.0
+    },
+    {
+      "file": "p5.2.y.txt",
+      "archive_member": "Chao/p5.2.y.txt",
+      "sha256": "dff728c4882349335e518fbe5474d086b45f5a10c34b02e4d9998793927baf5c",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 62.5
+    },
+    {
+      "file": "p5.2.z.txt",
+      "archive_member": "Chao/p5.2.z.txt",
+      "sha256": "8fc805e3b7f583b50c9be2f183f98d77481b33acdf7965687828ddf499a32108",
+      "clients": 64,
+      "vehicles": 2,
+      "limit": 65.0
+    },
+    {
+      "file": "p5.3.a.txt",
+      "archive_member": "Chao/p5.3.a.txt",
+      "sha256": "4c40536a379f07e3c89f522abb0386a858643dd998d4c2c21ef81265599606a8",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 1.7
+    },
+    {
+      "file": "p5.3.b.txt",
+      "archive_member": "Chao/p5.3.b.txt",
+      "sha256": "8245b16965f77fb0cfac0f286e2f1afb03b5051c711ac2dee78ac8fc20d8988a",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 3.3
+    },
+    {
+      "file": "p5.3.c.txt",
+      "archive_member": "Chao/p5.3.c.txt",
+      "sha256": "9d3196d8c6c30696b0e890c91a64fef8ecc61eee2eb19100aa5aa5d5e3057228",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 5.0
+    },
+    {
+      "file": "p5.3.d.txt",
+      "archive_member": "Chao/p5.3.d.txt",
+      "sha256": "308d358965428c5b299d29e73b4c3420eb3e84516edcd6cf581fbc69877093bb",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 6.7
+    },
+    {
+      "file": "p5.3.e.txt",
+      "archive_member": "Chao/p5.3.e.txt",
+      "sha256": "28f6049272bae47b302daa5c007a4a34a8f4204ddf78c0016c4743edc0488cf0",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 8.3
+    },
+    {
+      "file": "p5.3.f.txt",
+      "archive_member": "Chao/p5.3.f.txt",
+      "sha256": "a0818c22c57bb2fa052d99a6f41cebe80a69dcb06ec7fab65fc3c54935b4b71a",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 10.0
+    },
+    {
+      "file": "p5.3.g.txt",
+      "archive_member": "Chao/p5.3.g.txt",
+      "sha256": "4c32884e0984d8da09f69b13174b18ac9ee84c1f56b930f6fe76882f65f2bed9",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 11.7
+    },
+    {
+      "file": "p5.3.h.txt",
+      "archive_member": "Chao/p5.3.h.txt",
+      "sha256": "9453b9c8351c91cb5ee782cefb5b3e55af67c022f2c2f87279a5f0ed19e373c7",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 13.3
+    },
+    {
+      "file": "p5.3.i.txt",
+      "archive_member": "Chao/p5.3.i.txt",
+      "sha256": "75246c15097bf1bd42a200858ddbb426ce765038a911528cbfdeab43c8bf87b7",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 15.0
+    },
+    {
+      "file": "p5.3.j.txt",
+      "archive_member": "Chao/p5.3.j.txt",
+      "sha256": "d0ac1f11f35716927e7d28bdc6693a74ef34fddcfbbbcf5cf5154be7f4a6d06b",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 16.7
+    },
+    {
+      "file": "p5.3.k.txt",
+      "archive_member": "Chao/p5.3.k.txt",
+      "sha256": "86ba1a4528cf324a8d5cf5242ac3c430e7ccfa11fc981ca7e3dc43817ffbeddc",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 18.3
+    },
+    {
+      "file": "p5.3.l.txt",
+      "archive_member": "Chao/p5.3.l.txt",
+      "sha256": "850841fd4d96995fe4e10a0143037f7dc973c2d336206e9d33f413fad37b9aa9",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 20.0
+    },
+    {
+      "file": "p5.3.m.txt",
+      "archive_member": "Chao/p5.3.m.txt",
+      "sha256": "abcf8403023761b1fdd527e53f895b81d9f793523b76f792496dfcbec3a1da64",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 21.7
+    },
+    {
+      "file": "p5.3.n.txt",
+      "archive_member": "Chao/p5.3.n.txt",
+      "sha256": "97f782eed163a915f15ba2379465e2229c6f256a41f511284b168827e49d667b",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 23.3
+    },
+    {
+      "file": "p5.3.o.txt",
+      "archive_member": "Chao/p5.3.o.txt",
+      "sha256": "f10bd1dfccfdd3ec3d58111818e6b3e2eb2fd0a51dd56882f13bdeaaad00a4cf",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 25.0
+    },
+    {
+      "file": "p5.3.p.txt",
+      "archive_member": "Chao/p5.3.p.txt",
+      "sha256": "b648d4b8e1da73936fcf10bf446f23325cb7bdc009a7d2d5be5de9789102744b",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 26.7
+    },
+    {
+      "file": "p5.3.q.txt",
+      "archive_member": "Chao/p5.3.q.txt",
+      "sha256": "833672675b330fb89decdc10aa5da84b8490dc956c462264669e1664ee4635c2",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 28.3
+    },
+    {
+      "file": "p5.3.r.txt",
+      "archive_member": "Chao/p5.3.r.txt",
+      "sha256": "2be58cc75768c1031307dd437f850c631af412faf5c4f2c86c9494c373c4ed86",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 30.0
+    },
+    {
+      "file": "p5.3.s.txt",
+      "archive_member": "Chao/p5.3.s.txt",
+      "sha256": "e543c16901f86bd7a85f164b3df928f792a37af2d31e8f10956847c436f32baa",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 31.7
+    },
+    {
+      "file": "p5.3.t.txt",
+      "archive_member": "Chao/p5.3.t.txt",
+      "sha256": "0941d1e8f76635c173c974f8b938e25d109e70c7968a46115e2ca2b24fa09569",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 33.3
+    },
+    {
+      "file": "p5.3.u.txt",
+      "archive_member": "Chao/p5.3.u.txt",
+      "sha256": "ff346776d4c7d7ee810e473911922ef1054559f8a1965f11b09901ec2fefbdd4",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 35.0
+    },
+    {
+      "file": "p5.3.v.txt",
+      "archive_member": "Chao/p5.3.v.txt",
+      "sha256": "cd3e19970c4fc2a1739488dd0cbd75bcdd813908fbc1fff5e65d6acf6c081cda",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 36.7
+    },
+    {
+      "file": "p5.3.w.txt",
+      "archive_member": "Chao/p5.3.w.txt",
+      "sha256": "06353bf092935d89c6dc5033dacff359a9ad1d05150f980c3d2cb817f6017952",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 38.3
+    },
+    {
+      "file": "p5.3.x.txt",
+      "archive_member": "Chao/p5.3.x.txt",
+      "sha256": "514f6c4bf9e21d8485d1ac57a73a58511484af9c155041d955c1f87bbf964153",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 40.0
+    },
+    {
+      "file": "p5.3.y.txt",
+      "archive_member": "Chao/p5.3.y.txt",
+      "sha256": "5f74bd5a056fddaeb8447fadf760a6d3e2b30e1f3e1e319dbc7eaf6445aaa34b",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 41.7
+    },
+    {
+      "file": "p5.3.z.txt",
+      "archive_member": "Chao/p5.3.z.txt",
+      "sha256": "6c401d308a97e3f31d804c0b39fe2d676e24b0dce6b1a1d8c94389f5de9d45f3",
+      "clients": 64,
+      "vehicles": 3,
+      "limit": 43.3
+    },
+    {
+      "file": "p5.4.a.txt",
+      "archive_member": "Chao/p5.4.a.txt",
+      "sha256": "302622d8b8153bc15ac2d882b1cac6b55e21f97a108914f97f5dbcefefd61a01",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 1.2
+    },
+    {
+      "file": "p5.4.b.txt",
+      "archive_member": "Chao/p5.4.b.txt",
+      "sha256": "67073c33db5ec0aee8e020049905f19fa256794b5d643d6b968073479a3409c5",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 2.5
+    },
+    {
+      "file": "p5.4.c.txt",
+      "archive_member": "Chao/p5.4.c.txt",
+      "sha256": "afc386d08e10d749e4dc9b2c910658a068349bd5196334026c5486c313e1e1ad",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 3.8
+    },
+    {
+      "file": "p5.4.d.txt",
+      "archive_member": "Chao/p5.4.d.txt",
+      "sha256": "0bb40d271207710e68d4d1da7f4288426012ba2b9a74513330e43ad522be9339",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 5.0
+    },
+    {
+      "file": "p5.4.e.txt",
+      "archive_member": "Chao/p5.4.e.txt",
+      "sha256": "d6e7b2d0576276ff631feca1f382fd9c571c455164f1cb0682ea571559770c8c",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 6.2
+    },
+    {
+      "file": "p5.4.f.txt",
+      "archive_member": "Chao/p5.4.f.txt",
+      "sha256": "db6acfc2779a8f67d1a7715fc7d3926a8cdfd235d3c374bb42d24d6dae40bab3",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 7.5
+    },
+    {
+      "file": "p5.4.g.txt",
+      "archive_member": "Chao/p5.4.g.txt",
+      "sha256": "a3ac62cc836ee63805ce43b1b1486bb21c56b20c7478d50ff94cb865ae2688e6",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 8.8
+    },
+    {
+      "file": "p5.4.h.txt",
+      "archive_member": "Chao/p5.4.h.txt",
+      "sha256": "98ca33833c443908f96bb6c3d5510d358b00540503af617b2acab48b0cb8fb82",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 10.0
+    },
+    {
+      "file": "p5.4.i.txt",
+      "archive_member": "Chao/p5.4.i.txt",
+      "sha256": "cadf283f03f543a880ef8af3098c9c98a55dfb63a02fcf94b48aac4687f26302",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 11.2
+    },
+    {
+      "file": "p5.4.j.txt",
+      "archive_member": "Chao/p5.4.j.txt",
+      "sha256": "95e28277b4161d25ddf444703ebe40afd45585c15418273c80b2f1a26229e0a4",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 12.5
+    },
+    {
+      "file": "p5.4.k.txt",
+      "archive_member": "Chao/p5.4.k.txt",
+      "sha256": "a9e91af6ca0b5996746e1f2aa78d8626d19c3e9158ba35dee0077b81f91c8927",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 13.8
+    },
+    {
+      "file": "p5.4.l.txt",
+      "archive_member": "Chao/p5.4.l.txt",
+      "sha256": "6448696639aa3edd24c9ab3a223ecf16f3a72098e4821e9e93f3a17ad9529aa3",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 15.0
+    },
+    {
+      "file": "p5.4.m.txt",
+      "archive_member": "Chao/p5.4.m.txt",
+      "sha256": "4d8d1d0caa01cb5f35d935109ad15376e294f1f27f35fe7b3bc66bad9f075b81",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 16.2
+    },
+    {
+      "file": "p5.4.n.txt",
+      "archive_member": "Chao/p5.4.n.txt",
+      "sha256": "d945395cf440bcd4fcd3ad0da4df048298baa5bad1c077d20beda88c39032ad4",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 17.5
+    },
+    {
+      "file": "p5.4.o.txt",
+      "archive_member": "Chao/p5.4.o.txt",
+      "sha256": "1d56697a852194c528a1b95206c57c4510a238e1a9f03174e0073c361079c148",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 18.8
+    },
+    {
+      "file": "p5.4.p.txt",
+      "archive_member": "Chao/p5.4.p.txt",
+      "sha256": "7314905cf77cae3e854be7ceba79684c05730e34adad8e411b1013708950692e",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 20.0
+    },
+    {
+      "file": "p5.4.q.txt",
+      "archive_member": "Chao/p5.4.q.txt",
+      "sha256": "253f81120173eed61d5b3a63e7620c8876f880eb20688029bef92e44eb8f23d8",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 21.2
+    },
+    {
+      "file": "p5.4.r.txt",
+      "archive_member": "Chao/p5.4.r.txt",
+      "sha256": "a3a54a5f245806ab7e89f7568a7ee96be1ba8929a42385458cb115fd0a5b635c",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 22.5
+    },
+    {
+      "file": "p5.4.s.txt",
+      "archive_member": "Chao/p5.4.s.txt",
+      "sha256": "7d0589e1ad22a564ffdd3c8a19d15c72984573357664f35543a3f94bbff0e487",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 23.8
+    },
+    {
+      "file": "p5.4.t.txt",
+      "archive_member": "Chao/p5.4.t.txt",
+      "sha256": "8f7357acfdc0a1b111283f073e976f6804e5595a695bf6c0edcc3389c7062b36",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 25.0
+    },
+    {
+      "file": "p5.4.u.txt",
+      "archive_member": "Chao/p5.4.u.txt",
+      "sha256": "fc7c0e5e6eae1e0476e0d2f198442ad9e783417dcd3372623d32a53659f872d8",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 26.2
+    },
+    {
+      "file": "p5.4.v.txt",
+      "archive_member": "Chao/p5.4.v.txt",
+      "sha256": "0e43284d0a6997e83c5898e5f1716284a05a0cf403441c742325b88053448ed1",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 27.5
+    },
+    {
+      "file": "p5.4.w.txt",
+      "archive_member": "Chao/p5.4.w.txt",
+      "sha256": "8ac366d6c977e16c2ac80226593d4f57a39148c6a734f5a9b428d117d653f3fa",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 28.8
+    },
+    {
+      "file": "p5.4.x.txt",
+      "archive_member": "Chao/p5.4.x.txt",
+      "sha256": "f2b36f463c95f478aaf7a77f039a13d782e01fc49d0a21e842d19a4339e2ade6",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 30.0
+    },
+    {
+      "file": "p5.4.y.txt",
+      "archive_member": "Chao/p5.4.y.txt",
+      "sha256": "41c3a9c69ae99291d4dcd4b48de25fd801fd9e081c6b96799969ac19d5d08ada",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 31.2
+    },
+    {
+      "file": "p5.4.z.txt",
+      "archive_member": "Chao/p5.4.z.txt",
+      "sha256": "d12630770e38cea0c17ba28564f7c6c25849a1c445cbf324606da1f54fbe066b",
+      "clients": 64,
+      "vehicles": 4,
+      "limit": 32.5
+    },
+    {
+      "file": "p6.2.a.txt",
+      "archive_member": "Chao/p6.2.a.txt",
+      "sha256": "ec8d7f323ee172989920de35382ef075502f4067a27fac6852298a67ac480bb4",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 7.5
+    },
+    {
+      "file": "p6.2.b.txt",
+      "archive_member": "Chao/p6.2.b.txt",
+      "sha256": "80808b0898d3217c321d543b5eb721dfc10195d90476c26864ec5982aa65fce8",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 10.0
+    },
+    {
+      "file": "p6.2.c.txt",
+      "archive_member": "Chao/p6.2.c.txt",
+      "sha256": "5595398a6b54141e405d01cd40e3e64690a7702e6f8d359555901536096c7931",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 12.5
+    },
+    {
+      "file": "p6.2.d.txt",
+      "archive_member": "Chao/p6.2.d.txt",
+      "sha256": "fcab58fa5ce86534eda9a787b3bdba37466b69ec02bf66d3851f279e7f2dad8a",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 15.0
+    },
+    {
+      "file": "p6.2.e.txt",
+      "archive_member": "Chao/p6.2.e.txt",
+      "sha256": "8372cd308fcae0ad76fb839869fd3f6336b62f2bee8a67df610eb9c0d10c4499",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 17.5
+    },
+    {
+      "file": "p6.2.f.txt",
+      "archive_member": "Chao/p6.2.f.txt",
+      "sha256": "1cab3f97ce84552eb78e1176f3dd0bd4bbbe4082a9f1e6f1b193a838a365f626",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 20.0
+    },
+    {
+      "file": "p6.2.g.txt",
+      "archive_member": "Chao/p6.2.g.txt",
+      "sha256": "0ebeaacc4c4770d33377437f898eeaaaa7813e6eef371fe1bb108b212c13a03b",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 22.5
+    },
+    {
+      "file": "p6.2.h.txt",
+      "archive_member": "Chao/p6.2.h.txt",
+      "sha256": "a45c5e7f7092d9bb47b9573d8991c3098d8d83acbae7a4ce56dafd6dfea38896",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 25.0
+    },
+    {
+      "file": "p6.2.i.txt",
+      "archive_member": "Chao/p6.2.i.txt",
+      "sha256": "9ef7241e7c7158faddbf4e51ecc0464be2304b519b5980fac624ec815c821a98",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 27.5
+    },
+    {
+      "file": "p6.2.j.txt",
+      "archive_member": "Chao/p6.2.j.txt",
+      "sha256": "b40d703676b486f9294889360f98431070a34c9d4c27d3ad7d0e01441c676e11",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 30.0
+    },
+    {
+      "file": "p6.2.k.txt",
+      "archive_member": "Chao/p6.2.k.txt",
+      "sha256": "14967fe204ffafdf6f052d3a1541658bbf75a6111b0166ed8c2fdefc46b801a4",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 32.5
+    },
+    {
+      "file": "p6.2.l.txt",
+      "archive_member": "Chao/p6.2.l.txt",
+      "sha256": "ce2d760bac373617956efaa82bf82ce01400804a09282a257a22be08c43f608a",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 35.0
+    },
+    {
+      "file": "p6.2.m.txt",
+      "archive_member": "Chao/p6.2.m.txt",
+      "sha256": "b36c54eed053d9bc8e82422fd38bee5e32252fe3b000cb355b03b8c333979081",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 37.5
+    },
+    {
+      "file": "p6.2.n.txt",
+      "archive_member": "Chao/p6.2.n.txt",
+      "sha256": "1dd6c3bebe56dcd7c4a7ab0a72078bf8761998d629c9aefa8c788e76fd1fcf5e",
+      "clients": 62,
+      "vehicles": 2,
+      "limit": 40.0
+    },
+    {
+      "file": "p6.3.a.txt",
+      "archive_member": "Chao/p6.3.a.txt",
+      "sha256": "ab3e9234747e8e554c8a5f2e8271a13408a06972d20609bbf01aecbdfc9f9c70",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 5.0
+    },
+    {
+      "file": "p6.3.b.txt",
+      "archive_member": "Chao/p6.3.b.txt",
+      "sha256": "2b73874419798222a729a5cba108cf8285da0fe3b73350090b9f9840c9b79e76",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 6.7
+    },
+    {
+      "file": "p6.3.c.txt",
+      "archive_member": "Chao/p6.3.c.txt",
+      "sha256": "16d3ea5c50ca132fd43eac41f6e328abeb4140a1f73340a4d6941268ef10afac",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 8.3
+    },
+    {
+      "file": "p6.3.d.txt",
+      "archive_member": "Chao/p6.3.d.txt",
+      "sha256": "1a746baf6672e4a66aab135993b36430bcce84c1072adbdea67c92f87a7bfbd1",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 10.0
+    },
+    {
+      "file": "p6.3.e.txt",
+      "archive_member": "Chao/p6.3.e.txt",
+      "sha256": "f352381a2c99234e3bad349af35b9591ecffbd4a9e5032d807aeefb16ae65528",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 11.7
+    },
+    {
+      "file": "p6.3.f.txt",
+      "archive_member": "Chao/p6.3.f.txt",
+      "sha256": "f57057429ac550566107ffb7e053fc4a0e1e8a9ecfe03952a1fa0ada1877f23b",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 13.3
+    },
+    {
+      "file": "p6.3.g.txt",
+      "archive_member": "Chao/p6.3.g.txt",
+      "sha256": "ca43c61bed3693bfd49877872040498270ffa4bec3f0e5390cbf1d33b56ee81d",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 15.0
+    },
+    {
+      "file": "p6.3.h.txt",
+      "archive_member": "Chao/p6.3.h.txt",
+      "sha256": "80eb9241a40736d0dc7fe6b7bf908107326ecd0f97aa143de8106c7a824713eb",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 16.7
+    },
+    {
+      "file": "p6.3.i.txt",
+      "archive_member": "Chao/p6.3.i.txt",
+      "sha256": "7fea5311afdbe4c37b4a097eddd8570b1e9af268b86391f16797f4132ec51b10",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 18.3
+    },
+    {
+      "file": "p6.3.j.txt",
+      "archive_member": "Chao/p6.3.j.txt",
+      "sha256": "8fff6421f9163863d98edccdfe99175e5ec71d28695bb7ded16d37f5322cb6b2",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 20.0
+    },
+    {
+      "file": "p6.3.k.txt",
+      "archive_member": "Chao/p6.3.k.txt",
+      "sha256": "8ced697d0cb3bdf474b003d26d99ea4f07a271a29d1bcd3c02772ced92cfeb25",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 21.7
+    },
+    {
+      "file": "p6.3.l.txt",
+      "archive_member": "Chao/p6.3.l.txt",
+      "sha256": "201d3987cbf94eae7480dd30155720eff19b13440ebfdd0e8020ca1c774e4e4d",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 23.3
+    },
+    {
+      "file": "p6.3.m.txt",
+      "archive_member": "Chao/p6.3.m.txt",
+      "sha256": "a6539f73f2dbace081346715c053d9297767d5f3bf2f7e0449f601c3795a270f",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 25.0
+    },
+    {
+      "file": "p6.3.n.txt",
+      "archive_member": "Chao/p6.3.n.txt",
+      "sha256": "b107f29edc008bfab2ca0a0c62425d5a3a7b137236653eb4ed979450c26912f9",
+      "clients": 62,
+      "vehicles": 3,
+      "limit": 26.7
+    },
+    {
+      "file": "p6.4.a.txt",
+      "archive_member": "Chao/p6.4.a.txt",
+      "sha256": "ca90e8a6ea09ae24c0cfa8eab00a2ba7ceb26bef8474137e82f98fae381a1261",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 3.8
+    },
+    {
+      "file": "p6.4.b.txt",
+      "archive_member": "Chao/p6.4.b.txt",
+      "sha256": "6c6d84be3a51000d414ee530f85b70570dd3c71c31a58296fe91c344753d9b8a",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 5.0
+    },
+    {
+      "file": "p6.4.c.txt",
+      "archive_member": "Chao/p6.4.c.txt",
+      "sha256": "c43bc2930cd4f09de357445e4b32c40e97f0a5a5f3f03b964ad938e63b43ef63",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 6.2
+    },
+    {
+      "file": "p6.4.d.txt",
+      "archive_member": "Chao/p6.4.d.txt",
+      "sha256": "00f45a6c64b4b838ebb57854303703e82410aafc0a1148ae6525f95ec22fc468",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 7.5
+    },
+    {
+      "file": "p6.4.e.txt",
+      "archive_member": "Chao/p6.4.e.txt",
+      "sha256": "004062cad448bda5dc2ca9bac19c779b1f82b05f8d45b504940ba0669a4326c1",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 8.8
+    },
+    {
+      "file": "p6.4.f.txt",
+      "archive_member": "Chao/p6.4.f.txt",
+      "sha256": "02e6ebde70d61c7b529f16e7ed6f7e837a98c67c8f5abd7006c01e95a64320ce",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 10.0
+    },
+    {
+      "file": "p6.4.g.txt",
+      "archive_member": "Chao/p6.4.g.txt",
+      "sha256": "1f4805655467ea1d8e26b2b566fdc60b07171916eadf560bb5ba760bce920f02",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 11.2
+    },
+    {
+      "file": "p6.4.h.txt",
+      "archive_member": "Chao/p6.4.h.txt",
+      "sha256": "98eb42d87c8f20c5ec9c20eb07395bbbe23f4b063621f92faf09a8be038ec08b",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 12.5
+    },
+    {
+      "file": "p6.4.i.txt",
+      "archive_member": "Chao/p6.4.i.txt",
+      "sha256": "89ec2fb32c9098e6f0b6348cc472bcb601bf66651cbe777bc5610e4d588f352c",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 13.8
+    },
+    {
+      "file": "p6.4.j.txt",
+      "archive_member": "Chao/p6.4.j.txt",
+      "sha256": "29f4861154e8b5b6777294ab23f422ac6d2c2f6d62257d6fe8a35b07c906e688",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 15.0
+    },
+    {
+      "file": "p6.4.k.txt",
+      "archive_member": "Chao/p6.4.k.txt",
+      "sha256": "4f83e7222ffcd5e29571cf22b352af8194df75f16dbbfb69b8817a519e29a9bf",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 16.2
+    },
+    {
+      "file": "p6.4.l.txt",
+      "archive_member": "Chao/p6.4.l.txt",
+      "sha256": "9ec0fd19d82d75795ee2ef513d72f8fa6b9a86b6867b3588b0e78c248779bac3",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 17.5
+    },
+    {
+      "file": "p6.4.m.txt",
+      "archive_member": "Chao/p6.4.m.txt",
+      "sha256": "4be024211364162b74983ad52dd4209d0d6ef2ac12817896cd3d5c08d321f788",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 18.8
+    },
+    {
+      "file": "p6.4.n.txt",
+      "archive_member": "Chao/p6.4.n.txt",
+      "sha256": "60ffb850b4d50881e116fd75ed026aab6f2d92ce71e319f94f3a3eb6b9ea8aba",
+      "clients": 62,
+      "vehicles": 4,
+      "limit": 20.0
+    },
+    {
+      "file": "p7.2.a.txt",
+      "archive_member": "Chao/p7.2.a.txt",
+      "sha256": "d9bcc4d05b4eb272bee87789e104671cacb353150231ddceea9b8e7a22973418",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 10.0
+    },
+    {
+      "file": "p7.2.b.txt",
+      "archive_member": "Chao/p7.2.b.txt",
+      "sha256": "a98ae5b16bfa64bcc15f69d92b3c8e42a7a845b3672056e0a6f5caaaa9247a83",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 20.0
+    },
+    {
+      "file": "p7.2.c.txt",
+      "archive_member": "Chao/p7.2.c.txt",
+      "sha256": "35ab1196f5b528bcc39c0c9bbb300daf147a83eb7f8b0233caed94dbdb76d5bf",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 30.0
+    },
+    {
+      "file": "p7.2.d.txt",
+      "archive_member": "Chao/p7.2.d.txt",
+      "sha256": "aa064c80029048dc4a0117f9ff8dd53bf6302a1a905c69d00fa47a23c4b3b2ba",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 40.0
+    },
+    {
+      "file": "p7.2.e.txt",
+      "archive_member": "Chao/p7.2.e.txt",
+      "sha256": "c67dd900a66dd22d06d4e99b303f819b57db752ca9f6869648adb97c6237bcf2",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 50.0
+    },
+    {
+      "file": "p7.2.f.txt",
+      "archive_member": "Chao/p7.2.f.txt",
+      "sha256": "bcae2433c67325211ad4b1dc685c094378adedba2ef6b2a4085096bc9a0faf83",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 60.0
+    },
+    {
+      "file": "p7.2.g.txt",
+      "archive_member": "Chao/p7.2.g.txt",
+      "sha256": "bc2719197ab295c94311ff48cfcd8f23911e2b52da664bf94a5c78ef0fb76d10",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 70.0
+    },
+    {
+      "file": "p7.2.h.txt",
+      "archive_member": "Chao/p7.2.h.txt",
+      "sha256": "c1784ccec9da38fa90751cbc4a5b4742467b118360ad6665ad4d0508a327fa5e",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 80.0
+    },
+    {
+      "file": "p7.2.i.txt",
+      "archive_member": "Chao/p7.2.i.txt",
+      "sha256": "88e836d989ba792e7c0193cb308d4a5aae35f0c9e2d1025b2d51c035fc37acb7",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 90.0
+    },
+    {
+      "file": "p7.2.j.txt",
+      "archive_member": "Chao/p7.2.j.txt",
+      "sha256": "d6607767fe19d769eb4a6b69b7be69d266b5c1d6bb58895048cbc640abd69d53",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 100.0
+    },
+    {
+      "file": "p7.2.k.txt",
+      "archive_member": "Chao/p7.2.k.txt",
+      "sha256": "e7e2e7ba6205d889858f6e0daadf0d2e2a935454865d55ba046a6d4536a2c5ce",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 110.0
+    },
+    {
+      "file": "p7.2.l.txt",
+      "archive_member": "Chao/p7.2.l.txt",
+      "sha256": "414b156890b452bab4b3d2e50258d08bfc0b1cc488b3fc3a831005bd802c0172",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 120.0
+    },
+    {
+      "file": "p7.2.m.txt",
+      "archive_member": "Chao/p7.2.m.txt",
+      "sha256": "f1f30fb7adf70c857e6bca66ebef95fcb0f6de4f6deb4a4f60483065f769314f",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 130.0
+    },
+    {
+      "file": "p7.2.n.txt",
+      "archive_member": "Chao/p7.2.n.txt",
+      "sha256": "f090f899e700e2f544801bfd892339c1f52f601cb0304abc616648518d19ef08",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 140.0
+    },
+    {
+      "file": "p7.2.o.txt",
+      "archive_member": "Chao/p7.2.o.txt",
+      "sha256": "315670bdc437a28b5e6f075156cdc2aa0a547faac83149744b33a5be779eba34",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 150.0
+    },
+    {
+      "file": "p7.2.p.txt",
+      "archive_member": "Chao/p7.2.p.txt",
+      "sha256": "f98436d5df9d666810799480b748c8805ad9f5a303fb246a848965b7185d4f5b",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 160.0
+    },
+    {
+      "file": "p7.2.q.txt",
+      "archive_member": "Chao/p7.2.q.txt",
+      "sha256": "b5c51a3f6196123230bf1040a3fc45ba1e904888a7548410b35111e10d7e198b",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 170.0
+    },
+    {
+      "file": "p7.2.r.txt",
+      "archive_member": "Chao/p7.2.r.txt",
+      "sha256": "e262b7966d9dd8ee1c1adc35644b6fc6f40161de3b7695293b3c51e486c1e2ec",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 180.0
+    },
+    {
+      "file": "p7.2.s.txt",
+      "archive_member": "Chao/p7.2.s.txt",
+      "sha256": "c1ad58fc9090b987d4be7a5eff441848c1548bd7035d954ba39f9419a0a44523",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 190.0
+    },
+    {
+      "file": "p7.2.t.txt",
+      "archive_member": "Chao/p7.2.t.txt",
+      "sha256": "4ffd758c876eb2b6deb77b6923d1818e7d7a23befd7c35db4742dada483e58d2",
+      "clients": 100,
+      "vehicles": 2,
+      "limit": 200.0
+    },
+    {
+      "file": "p7.3.a.txt",
+      "archive_member": "Chao/p7.3.a.txt",
+      "sha256": "3f42106b15e84b923603b2596138e4afc9dfcac19d4234452c11a6fdaddf1286",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 6.7
+    },
+    {
+      "file": "p7.3.b.txt",
+      "archive_member": "Chao/p7.3.b.txt",
+      "sha256": "d618a2614a1853a17555ea01d3d9be6b89e00caeaa706d80b51e769853486bc7",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 13.3
+    },
+    {
+      "file": "p7.3.c.txt",
+      "archive_member": "Chao/p7.3.c.txt",
+      "sha256": "3f0b3d6f51f5df851244b6d3f14a1f30ed08fc43789e60b8f168a1db3c0e1fa8",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 20.0
+    },
+    {
+      "file": "p7.3.d.txt",
+      "archive_member": "Chao/p7.3.d.txt",
+      "sha256": "cb09254db89978fb68991ab390acb17aa6e3460d31a727d66b713fb2a8e83ada",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 26.7
+    },
+    {
+      "file": "p7.3.e.txt",
+      "archive_member": "Chao/p7.3.e.txt",
+      "sha256": "99cccd5f5bc7f05b81068f87de6a5108f84ab82d9edc751662dc726a9e2096c3",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 33.3
+    },
+    {
+      "file": "p7.3.f.txt",
+      "archive_member": "Chao/p7.3.f.txt",
+      "sha256": "7c4b943707b2ed366a8567a70fcc01e18767f08ac5ea4c2998b43359a56c366e",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 40.0
+    },
+    {
+      "file": "p7.3.g.txt",
+      "archive_member": "Chao/p7.3.g.txt",
+      "sha256": "8312a3136956afff1a89c5065dcad5db73b604677b7834523d0106ee0ff34767",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 46.7
+    },
+    {
+      "file": "p7.3.h.txt",
+      "archive_member": "Chao/p7.3.h.txt",
+      "sha256": "9c20579552a98359bc49add62f020ee88f1233fe1a2005f348faed477d098f67",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 53.3
+    },
+    {
+      "file": "p7.3.i.txt",
+      "archive_member": "Chao/p7.3.i.txt",
+      "sha256": "14bea6947b733125d4b7806fc4c4ec099031a84a7f380bfb4f836fa1357bacdf",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 60.0
+    },
+    {
+      "file": "p7.3.j.txt",
+      "archive_member": "Chao/p7.3.j.txt",
+      "sha256": "de886149bdfa9ccde6dabcf5bef839c1fe8df9f42f79cd9ff894c6b0244707ee",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 66.7
+    },
+    {
+      "file": "p7.3.k.txt",
+      "archive_member": "Chao/p7.3.k.txt",
+      "sha256": "73c5c4f8a28364e112e97c8f79c58be51f9b3b56f59d67a0d30aad154e155f4c",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 73.3
+    },
+    {
+      "file": "p7.3.l.txt",
+      "archive_member": "Chao/p7.3.l.txt",
+      "sha256": "8ac37f241cdd4720cc79565aa36af8e35edca7dd917e639afa586d351b2aca53",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 80.0
+    },
+    {
+      "file": "p7.3.m.txt",
+      "archive_member": "Chao/p7.3.m.txt",
+      "sha256": "355a0004de28af8be66e873d4364291096da0837a69c18d6155fedf711bcebc8",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 86.7
+    },
+    {
+      "file": "p7.3.n.txt",
+      "archive_member": "Chao/p7.3.n.txt",
+      "sha256": "f054037b56171c37b70db29effc91e5553eb3b56362689eb55e31d5cb22c8af8",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 93.3
+    },
+    {
+      "file": "p7.3.o.txt",
+      "archive_member": "Chao/p7.3.o.txt",
+      "sha256": "3e387c6d7b08866108e417e6cb8b5cc34c4c0a96ba9dafd3307378f18585ae96",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 100.0
+    },
+    {
+      "file": "p7.3.p.txt",
+      "archive_member": "Chao/p7.3.p.txt",
+      "sha256": "db15243f48c19240b1909aa65ad0f869af330c72397ee7ba402f559323343183",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 106.7
+    },
+    {
+      "file": "p7.3.q.txt",
+      "archive_member": "Chao/p7.3.q.txt",
+      "sha256": "34613fa04be41ef4e925509d710f4839773684f40690e16aafd82314e87a83db",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 113.3
+    },
+    {
+      "file": "p7.3.r.txt",
+      "archive_member": "Chao/p7.3.r.txt",
+      "sha256": "9a9a9af79bf9a315f5e37ded59c863ecda48a8662baf82681824be5ea4c30022",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 120.0
+    },
+    {
+      "file": "p7.3.s.txt",
+      "archive_member": "Chao/p7.3.s.txt",
+      "sha256": "7937a2d705e9f8fc5379f781f4707d38f362c923f3f9fdc5d3426c70de9ef96e",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 126.7
+    },
+    {
+      "file": "p7.3.t.txt",
+      "archive_member": "Chao/p7.3.t.txt",
+      "sha256": "c71fa33892510f503390a897fdc72c67e4df7216b1fc12cc1e883179f37ec65e",
+      "clients": 100,
+      "vehicles": 3,
+      "limit": 133.3
+    },
+    {
+      "file": "p7.4.a.txt",
+      "archive_member": "Chao/p7.4.a.txt",
+      "sha256": "c4c1e73e9d5a874e0a8b140a96b4042aac2d716e54cc015f5954899ee75ffb36",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 5.0
+    },
+    {
+      "file": "p7.4.b.txt",
+      "archive_member": "Chao/p7.4.b.txt",
+      "sha256": "55630f2a23890aa97d64b3629c1675c558d3c276fa845603c3d91951314a4388",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 10.0
+    },
+    {
+      "file": "p7.4.c.txt",
+      "archive_member": "Chao/p7.4.c.txt",
+      "sha256": "d9ac39b14ff2cbdaa55cda492216bb2b21f804c3616b152bc5437f2e4c794359",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 15.0
+    },
+    {
+      "file": "p7.4.d.txt",
+      "archive_member": "Chao/p7.4.d.txt",
+      "sha256": "9f577ddb7e77d232d4f5038470bc65f4eb44cfcecdfdaf8f888dfa16f381abce",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 20.0
+    },
+    {
+      "file": "p7.4.e.txt",
+      "archive_member": "Chao/p7.4.e.txt",
+      "sha256": "5e5e1d6d8b32362e03411f9cb997772527ef260c49f4d437a156b9bb31ccd585",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 25.0
+    },
+    {
+      "file": "p7.4.f.txt",
+      "archive_member": "Chao/p7.4.f.txt",
+      "sha256": "c0a04dc2de22d8fce8c913c0db48a304442e9c9f0f741f966e9a2a6fb3dd67d7",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 30.0
+    },
+    {
+      "file": "p7.4.g.txt",
+      "archive_member": "Chao/p7.4.g.txt",
+      "sha256": "9660a443e9863deede790ce94bf262de3adcc8e7edbad977634ea1c3080325d0",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 35.0
+    },
+    {
+      "file": "p7.4.h.txt",
+      "archive_member": "Chao/p7.4.h.txt",
+      "sha256": "af3f9de84f6f8ce624b59b01258399390818da3937eb21e211c444c99fb59737",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 40.0
+    },
+    {
+      "file": "p7.4.i.txt",
+      "archive_member": "Chao/p7.4.i.txt",
+      "sha256": "a323115b1d27cec0925bb180112f4b552bed4becc184ebf68d5c3ff0bb01b5f4",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 45.0
+    },
+    {
+      "file": "p7.4.j.txt",
+      "archive_member": "Chao/p7.4.j.txt",
+      "sha256": "bd09f65f68800039d5ced02113c17a9f780780e7876b24cb1628bb9072019e1e",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 50.0
+    },
+    {
+      "file": "p7.4.k.txt",
+      "archive_member": "Chao/p7.4.k.txt",
+      "sha256": "e98563bbd78609a2a9f1a9f5f6f672809739b6be0081077eac6e31cc0cc2a677",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 55.0
+    },
+    {
+      "file": "p7.4.l.txt",
+      "archive_member": "Chao/p7.4.l.txt",
+      "sha256": "7e5606b45fd2ee4344ce56b6fc321e897f02f6a337b486592aa4876f67b4deef",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 60.0
+    },
+    {
+      "file": "p7.4.m.txt",
+      "archive_member": "Chao/p7.4.m.txt",
+      "sha256": "af0c04da1f221735b5ef6617072de347c0faf34f7dc24abfd242283b89c3dfaa",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 65.0
+    },
+    {
+      "file": "p7.4.n.txt",
+      "archive_member": "Chao/p7.4.n.txt",
+      "sha256": "c20be9aafb49d6054566b899672d8605fe0b2db4ad98548259a51deecabc5f33",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 70.0
+    },
+    {
+      "file": "p7.4.o.txt",
+      "archive_member": "Chao/p7.4.o.txt",
+      "sha256": "95d180b97555d0869ef222dc4b729bba871d34c0f11c437eba1d5de6b635ca09",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 75.0
+    },
+    {
+      "file": "p7.4.p.txt",
+      "archive_member": "Chao/p7.4.p.txt",
+      "sha256": "e8129577d756da31f3e950468ef94b03d4de318c2c2f3155c5a22667b54dee95",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 80.0
+    },
+    {
+      "file": "p7.4.q.txt",
+      "archive_member": "Chao/p7.4.q.txt",
+      "sha256": "ca1ede72b76d0c9178ad37eb376ab4880b1476a70fc98edc2e5082c391fea1c0",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 85.0
+    },
+    {
+      "file": "p7.4.r.txt",
+      "archive_member": "Chao/p7.4.r.txt",
+      "sha256": "1fb0714dbbdda70440ee4a2c4abbe5862f17e549190639f56075143ee3a9d58e",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 90.0
+    },
+    {
+      "file": "p7.4.s.txt",
+      "archive_member": "Chao/p7.4.s.txt",
+      "sha256": "ea657a1a073f693d4d845c8e712fbbbfe782cb8b2e8b5ccc63ea42331ce0e0ea",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 95.0
+    },
+    {
+      "file": "p7.4.t.txt",
+      "archive_member": "Chao/p7.4.t.txt",
+      "sha256": "fe9c1f7316b6b1a0a603a14d8784b8b1b2099565b6c7193a73a43c2cefef3a09",
+      "clients": 100,
+      "vehicles": 4,
+      "limit": 100.0
+    }
+  ]
+}
